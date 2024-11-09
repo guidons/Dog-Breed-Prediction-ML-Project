@@ -1,0 +1,1273 @@
+﻿"StichtagDatJahr","KreisSort","KreisCd","KreisLang","HHtypSort","HHtypCd","HHtypLang","aequEK_p50","aequEK_p25","aequEK_p75"
+2013,1,"1","Kreis 1",14,"GH","Generationenhaushalt",,,
+2013,1,"1","Kreis 1",11,"PH","Patchwork-Haushalt",,,
+2013,1,"1","Kreis 1",6,"EP","Eingetragenes Paar ohne Kinder",,,
+2013,1,"1","Kreis 1",13,"WGK","Wohngemeinschaft mit Kind(ern)",,,
+2013,1,"1","Kreis 1",10,"PK","Paar mit Kind(ern)",,,
+2013,1,"1","Kreis 1",12,"WG","Wohngemeinschaft ohne Kinder",73.4,49.8,102.4
+2013,1,"1","Kreis 1",7,"1EH","Ein-Elternhaushalt",40.47,20.85,65.13
+2013,1,"1","Kreis 1",8,"EHK","Ehepaar mit Kind(ern)",57.34,32.64,92.04
+2013,1,"1","Kreis 1",4,"2P","Zweipersonenhaushalt",73.33,47.67,110.8
+2013,1,"1","Kreis 1",5,"EH","Ehepaar ohne Kinder",85.97,57.93,147.13
+2013,1,"1","Kreis 1",1,"1P","Einpersonenhaushalt",61.3,31.7,101.1
+2013,2,"2","Kreis 2",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2013,2,"2","Kreis 2",14,"GH","Generationenhaushalt",,,
+2013,2,"2","Kreis 2",6,"EP","Eingetragenes Paar ohne Kinder",93.17,68.2,137.07
+2013,2,"2","Kreis 2",11,"PH","Patchwork-Haushalt",53.75,29.87,70.14
+2013,2,"2","Kreis 2",13,"WGK","Wohngemeinschaft mit Kind(ern)",56.09,37.14,84.68
+2013,2,"2","Kreis 2",10,"PK","Paar mit Kind(ern)",46.14,29.81,69.44
+2013,2,"2","Kreis 2",12,"WG","Wohngemeinschaft ohne Kinder",68.65,42.25,97.61
+2013,2,"2","Kreis 2",7,"1EH","Ein-Elternhaushalt",31.38,17.17,49.27
+2013,2,"2","Kreis 2",4,"2P","Zweipersonenhaushalt",72.4,48.67,103.8
+2013,2,"2","Kreis 2",5,"EH","Ehepaar ohne Kinder",59.73,40,94.13
+2013,2,"2","Kreis 2",8,"EHK","Ehepaar mit Kind(ern)",45.61,28.11,74.28
+2013,2,"2","Kreis 2",1,"1P","Einpersonenhaushalt",53.4,31.9,80.7
+2013,3,"3","Kreis 3",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2013,3,"3","Kreis 3",14,"GH","Generationenhaushalt",,,
+2013,3,"3","Kreis 3",6,"EP","Eingetragenes Paar ohne Kinder",69.67,44.8,95.8
+2013,3,"3","Kreis 3",11,"PH","Patchwork-Haushalt",43.39,27.17,68.67
+2013,3,"3","Kreis 3",13,"WGK","Wohngemeinschaft mit Kind(ern)",46.77,27.65,71.71
+2013,3,"3","Kreis 3",10,"PK","Paar mit Kind(ern)",40.97,27.97,63.2
+2013,3,"3","Kreis 3",12,"WG","Wohngemeinschaft ohne Kinder",58.65,38.45,85.65
+2013,3,"3","Kreis 3",7,"1EH","Ein-Elternhaushalt",29.69,16.54,45.13
+2013,3,"3","Kreis 3",4,"2P","Zweipersonenhaushalt",65.47,44.2,91.93
+2013,3,"3","Kreis 3",5,"EH","Ehepaar ohne Kinder",51.8,35.87,75.53
+2013,3,"3","Kreis 3",8,"EHK","Ehepaar mit Kind(ern)",34.57,19.77,54.71
+2013,3,"3","Kreis 3",1,"1P","Einpersonenhaushalt",50.1,29.2,74.2
+2013,4,"4","Kreis 4",14,"GH","Generationenhaushalt",,,
+2013,4,"4","Kreis 4",11,"PH","Patchwork-Haushalt",32.14,17.76,56.67
+2013,4,"4","Kreis 4",6,"EP","Eingetragenes Paar ohne Kinder",58.5,38.8,96.27
+2013,4,"4","Kreis 4",13,"WGK","Wohngemeinschaft mit Kind(ern)",30.27,21.26,52.08
+2013,4,"4","Kreis 4",10,"PK","Paar mit Kind(ern)",41.06,25.67,63.67
+2013,4,"4","Kreis 4",12,"WG","Wohngemeinschaft ohne Kinder",51.59,35.5,77.7
+2013,4,"4","Kreis 4",7,"1EH","Ein-Elternhaushalt",25.92,12.5,43.79
+2013,4,"4","Kreis 4",5,"EH","Ehepaar ohne Kinder",41.07,26.13,61.2
+2013,4,"4","Kreis 4",8,"EHK","Ehepaar mit Kind(ern)",27.51,16.18,45
+2013,4,"4","Kreis 4",4,"2P","Zweipersonenhaushalt",60,40,86.67
+2013,4,"4","Kreis 4",1,"1P","Einpersonenhaushalt",43.3,22.5,68.6
+2013,5,"5","Kreis 5",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2013,5,"5","Kreis 5",14,"GH","Generationenhaushalt",,,
+2013,5,"5","Kreis 5",11,"PH","Patchwork-Haushalt",,,
+2013,5,"5","Kreis 5",13,"WGK","Wohngemeinschaft mit Kind(ern)",50.33,28.56,77.39
+2013,5,"5","Kreis 5",6,"EP","Eingetragenes Paar ohne Kinder",76.4,51.93,104.87
+2013,5,"5","Kreis 5",10,"PK","Paar mit Kind(ern)",43.81,28.05,69.89
+2013,5,"5","Kreis 5",12,"WG","Wohngemeinschaft ohne Kinder",62.09,41.85,95.4
+2013,5,"5","Kreis 5",7,"1EH","Ein-Elternhaushalt",30.64,17.44,51.85
+2013,5,"5","Kreis 5",8,"EHK","Ehepaar mit Kind(ern)",36.7,22.36,58.71
+2013,5,"5","Kreis 5",5,"EH","Ehepaar ohne Kinder",55.87,38.77,89.53
+2013,5,"5","Kreis 5",4,"2P","Zweipersonenhaushalt",73.93,48.7,106.57
+2013,5,"5","Kreis 5",1,"1P","Einpersonenhaushalt",54.8,30.2,82.7
+2013,6,"6","Kreis 6",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2013,6,"6","Kreis 6",14,"GH","Generationenhaushalt",,,
+2013,6,"6","Kreis 6",6,"EP","Eingetragenes Paar ohne Kinder",91.9,67.67,122.93
+2013,6,"6","Kreis 6",11,"PH","Patchwork-Haushalt",63.92,38.9,98.67
+2013,6,"6","Kreis 6",13,"WGK","Wohngemeinschaft mit Kind(ern)",58.56,31.8,96.61
+2013,6,"6","Kreis 6",12,"WG","Wohngemeinschaft ohne Kinder",67.78,43.75,101.05
+2013,6,"6","Kreis 6",10,"PK","Paar mit Kind(ern)",53.62,31.89,78.5
+2013,6,"6","Kreis 6",7,"1EH","Ein-Elternhaushalt",36.38,23.19,53.93
+2013,6,"6","Kreis 6",4,"2P","Zweipersonenhaushalt",76.67,50.67,109.13
+2013,6,"6","Kreis 6",5,"EH","Ehepaar ohne Kinder",64.07,42,105.13
+2013,6,"6","Kreis 6",8,"EHK","Ehepaar mit Kind(ern)",48.92,30.19,77.1
+2013,6,"6","Kreis 6",1,"1P","Einpersonenhaushalt",53.7,30.6,84.3
+2013,7,"7","Kreis 7",15,"FV","Familien-Verbund",,,
+2013,7,"7","Kreis 7",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2013,7,"7","Kreis 7",14,"GH","Generationenhaushalt",,,
+2013,7,"7","Kreis 7",11,"PH","Patchwork-Haushalt",73.83,38.8,100.7
+2013,7,"7","Kreis 7",6,"EP","Eingetragenes Paar ohne Kinder",92.33,52.47,120.93
+2013,7,"7","Kreis 7",13,"WGK","Wohngemeinschaft mit Kind(ern)",74.57,47.83,115.38
+2013,7,"7","Kreis 7",10,"PK","Paar mit Kind(ern)",66.11,40.17,103.22
+2013,7,"7","Kreis 7",12,"WG","Wohngemeinschaft ohne Kinder",85.24,55.5,136.85
+2013,7,"7","Kreis 7",7,"1EH","Ein-Elternhaushalt",44.74,26.96,69.9
+2013,7,"7","Kreis 7",4,"2P","Zweipersonenhaushalt",82.6,53.4,120.6
+2013,7,"7","Kreis 7",8,"EHK","Ehepaar mit Kind(ern)",67.02,42.19,112.67
+2013,7,"7","Kreis 7",5,"EH","Ehepaar ohne Kinder",78.67,47.87,127.33
+2013,7,"7","Kreis 7",1,"1P","Einpersonenhaushalt",61.3,35.8,97.5
+2013,8,"8","Kreis 8",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2013,8,"8","Kreis 8",14,"GH","Generationenhaushalt",,,
+2013,8,"8","Kreis 8",11,"PH","Patchwork-Haushalt",,,
+2013,8,"8","Kreis 8",6,"EP","Eingetragenes Paar ohne Kinder",80.47,44.4,110.87
+2013,8,"8","Kreis 8",13,"WGK","Wohngemeinschaft mit Kind(ern)",65,36.84,103
+2013,8,"8","Kreis 8",10,"PK","Paar mit Kind(ern)",61.62,34.83,97.1
+2013,8,"8","Kreis 8",12,"WG","Wohngemeinschaft ohne Kinder",83.86,54.23,140.95
+2013,8,"8","Kreis 8",7,"1EH","Ein-Elternhaushalt",42.19,27.4,66.54
+2013,8,"8","Kreis 8",4,"2P","Zweipersonenhaushalt",84.47,55.6,123.13
+2013,8,"8","Kreis 8",8,"EHK","Ehepaar mit Kind(ern)",63.05,41.95,102.71
+2013,8,"8","Kreis 8",5,"EH","Ehepaar ohne Kinder",79.83,47.4,132
+2013,8,"8","Kreis 8",1,"1P","Einpersonenhaushalt",62.1,36,99
+2013,9,"9","Kreis 9",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2013,9,"9","Kreis 9",14,"GH","Generationenhaushalt",,,
+2013,9,"9","Kreis 9",11,"PH","Patchwork-Haushalt",42.75,27.71,58.8
+2013,9,"9","Kreis 9",6,"EP","Eingetragenes Paar ohne Kinder",63.2,39.87,91.53
+2013,9,"9","Kreis 9",13,"WGK","Wohngemeinschaft mit Kind(ern)",37.87,26.11,51.72
+2013,9,"9","Kreis 9",10,"PK","Paar mit Kind(ern)",42.9,30.07,59.82
+2013,9,"9","Kreis 9",12,"WG","Wohngemeinschaft ohne Kinder",58.11,39.05,84.65
+2013,9,"9","Kreis 9",7,"1EH","Ein-Elternhaushalt",29.58,16.19,47.1
+2013,9,"9","Kreis 9",4,"2P","Zweipersonenhaushalt",63.57,43.4,86.67
+2013,9,"9","Kreis 9",8,"EHK","Ehepaar mit Kind(ern)",35.85,22.57,53.84
+2013,9,"9","Kreis 9",5,"EH","Ehepaar ohne Kinder",48.33,35.2,67
+2013,9,"9","Kreis 9",1,"1P","Einpersonenhaushalt",45.3,27,64.4
+2013,10,"10","Kreis 10",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2013,10,"10","Kreis 10",14,"GH","Generationenhaushalt",,,
+2013,10,"10","Kreis 10",11,"PH","Patchwork-Haushalt",48,32.11,67.17
+2013,10,"10","Kreis 10",6,"EP","Eingetragenes Paar ohne Kinder",65.73,49.93,92.07
+2013,10,"10","Kreis 10",13,"WGK","Wohngemeinschaft mit Kind(ern)",58.61,36,86.7
+2013,10,"10","Kreis 10",10,"PK","Paar mit Kind(ern)",48.61,34.56,72.25
+2013,10,"10","Kreis 10",12,"WG","Wohngemeinschaft ohne Kinder",66.96,42.95,90
+2013,10,"10","Kreis 10",7,"1EH","Ein-Elternhaushalt",35.48,20.44,52.4
+2013,10,"10","Kreis 10",4,"2P","Zweipersonenhaushalt",71.73,50.13,98.67
+2013,10,"10","Kreis 10",8,"EHK","Ehepaar mit Kind(ern)",46.05,29.5,68.71
+2013,10,"10","Kreis 10",5,"EH","Ehepaar ohne Kinder",57.63,39.93,88.87
+2013,10,"10","Kreis 10",1,"1P","Einpersonenhaushalt",53.3,32.8,76.6
+2013,11,"11","Kreis 11",14,"GH","Generationenhaushalt",,,
+2013,11,"11","Kreis 11",6,"EP","Eingetragenes Paar ohne Kinder",74.1,46.6,96.87
+2013,11,"11","Kreis 11",11,"PH","Patchwork-Haushalt",36.45,21.86,53.9
+2013,11,"11","Kreis 11",10,"PK","Paar mit Kind(ern)",42,27.25,61.14
+2013,11,"11","Kreis 11",13,"WGK","Wohngemeinschaft mit Kind(ern)",37.39,24.17,54.11
+2013,11,"11","Kreis 11",12,"WG","Wohngemeinschaft ohne Kinder",55.87,39.9,74.71
+2013,11,"11","Kreis 11",7,"1EH","Ein-Elternhaushalt",29.15,14.5,45.85
+2013,11,"11","Kreis 11",4,"2P","Zweipersonenhaushalt",66,45.87,87.8
+2013,11,"11","Kreis 11",5,"EH","Ehepaar ohne Kinder",50.5,35.67,73.67
+2013,11,"11","Kreis 11",8,"EHK","Ehepaar mit Kind(ern)",37.1,23.05,54.67
+2013,11,"11","Kreis 11",1,"1P","Einpersonenhaushalt",47,26.4,68.8
+2013,12,"12","Kreis 12",14,"GH","Generationenhaushalt",,,
+2013,12,"12","Kreis 12",6,"EP","Eingetragenes Paar ohne Kinder",,,
+2013,12,"12","Kreis 12",11,"PH","Patchwork-Haushalt",36.18,23.89,53.55
+2013,12,"12","Kreis 12",10,"PK","Paar mit Kind(ern)",30.29,18.91,45.06
+2013,12,"12","Kreis 12",13,"WGK","Wohngemeinschaft mit Kind(ern)",31.56,18.26,44.56
+2013,12,"12","Kreis 12",12,"WG","Wohngemeinschaft ohne Kinder",44.33,34.75,62
+2013,12,"12","Kreis 12",4,"2P","Zweipersonenhaushalt",52.87,34.47,70.4
+2013,12,"12","Kreis 12",7,"1EH","Ein-Elternhaushalt",23.85,10.05,39.73
+2013,12,"12","Kreis 12",5,"EH","Ehepaar ohne Kinder",42.33,28.93,56.13
+2013,12,"12","Kreis 12",8,"EHK","Ehepaar mit Kind(ern)",27.57,16.67,42.6
+2013,12,"12","Kreis 12",1,"1P","Einpersonenhaushalt",36.2,21.2,53.5
+2014,1,"1","Kreis 1",14,"GH","Generationenhaushalt",,,
+2014,1,"1","Kreis 1",11,"PH","Patchwork-Haushalt",,,
+2014,1,"1","Kreis 1",6,"EP","Eingetragenes Paar ohne Kinder",,,
+2014,1,"1","Kreis 1",13,"WGK","Wohngemeinschaft mit Kind(ern)",,,
+2014,1,"1","Kreis 1",12,"WG","Wohngemeinschaft ohne Kinder",77.65,49.2,100.4
+2014,1,"1","Kreis 1",10,"PK","Paar mit Kind(ern)",56.11,28.81,88.72
+2014,1,"1","Kreis 1",7,"1EH","Ein-Elternhaushalt",39.69,25.92,68.43
+2014,1,"1","Kreis 1",8,"EHK","Ehepaar mit Kind(ern)",55.38,32.9,96
+2014,1,"1","Kreis 1",4,"2P","Zweipersonenhaushalt",81.73,51.13,117.13
+2014,1,"1","Kreis 1",5,"EH","Ehepaar ohne Kinder",86.43,56.47,140.93
+2014,1,"1","Kreis 1",1,"1P","Einpersonenhaushalt",60.85,31.1,102
+2014,2,"2","Kreis 2",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2014,2,"2","Kreis 2",14,"GH","Generationenhaushalt",,,
+2014,2,"2","Kreis 2",6,"EP","Eingetragenes Paar ohne Kinder",83.87,55.4,120.13
+2014,2,"2","Kreis 2",11,"PH","Patchwork-Haushalt",45.45,30.2,64.15
+2014,2,"2","Kreis 2",12,"WG","Wohngemeinschaft ohne Kinder",68.04,41.2,110.6
+2014,2,"2","Kreis 2",13,"WGK","Wohngemeinschaft mit Kind(ern)",57.92,38.83,81.6
+2014,2,"2","Kreis 2",10,"PK","Paar mit Kind(ern)",49.01,32.96,74.09
+2014,2,"2","Kreis 2",7,"1EH","Ein-Elternhaushalt",33.6,20.46,53.33
+2014,2,"2","Kreis 2",4,"2P","Zweipersonenhaushalt",71.67,48.47,103.27
+2014,2,"2","Kreis 2",5,"EH","Ehepaar ohne Kinder",62.53,41.8,97.07
+2014,2,"2","Kreis 2",8,"EHK","Ehepaar mit Kind(ern)",47.83,29.5,76.19
+2014,2,"2","Kreis 2",1,"1P","Einpersonenhaushalt",53.8,32.6,83.2
+2014,3,"3","Kreis 3",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2014,3,"3","Kreis 3",14,"GH","Generationenhaushalt",,,
+2014,3,"3","Kreis 3",6,"EP","Eingetragenes Paar ohne Kinder",71.8,52.53,100.07
+2014,3,"3","Kreis 3",11,"PH","Patchwork-Haushalt",38.72,26,66.17
+2014,3,"3","Kreis 3",13,"WGK","Wohngemeinschaft mit Kind(ern)",49.17,31.53,73.45
+2014,3,"3","Kreis 3",12,"WG","Wohngemeinschaft ohne Kinder",62.95,41.4,90.4
+2014,3,"3","Kreis 3",10,"PK","Paar mit Kind(ern)",44.05,27.95,62.44
+2014,3,"3","Kreis 3",7,"1EH","Ein-Elternhaushalt",29.05,15.08,47.77
+2014,3,"3","Kreis 3",5,"EH","Ehepaar ohne Kinder",51.67,36.13,76.73
+2014,3,"3","Kreis 3",4,"2P","Zweipersonenhaushalt",66.63,45.2,93.2
+2014,3,"3","Kreis 3",8,"EHK","Ehepaar mit Kind(ern)",35.61,20.72,56
+2014,3,"3","Kreis 3",1,"1P","Einpersonenhaushalt",50.5,29.4,75
+2014,4,"4","Kreis 4",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2014,4,"4","Kreis 4",14,"GH","Generationenhaushalt",,,
+2014,4,"4","Kreis 4",11,"PH","Patchwork-Haushalt",41.17,16.67,51.83
+2014,4,"4","Kreis 4",6,"EP","Eingetragenes Paar ohne Kinder",61.8,40.33,105.4
+2014,4,"4","Kreis 4",13,"WGK","Wohngemeinschaft mit Kind(ern)",44.26,25.07,62.71
+2014,4,"4","Kreis 4",10,"PK","Paar mit Kind(ern)",41.1,25.56,61.17
+2014,4,"4","Kreis 4",12,"WG","Wohngemeinschaft ohne Kinder",53.1,35.35,81.89
+2014,4,"4","Kreis 4",7,"1EH","Ein-Elternhaushalt",26.18,12.54,44.08
+2014,4,"4","Kreis 4",5,"EH","Ehepaar ohne Kinder",41.87,26.13,64.33
+2014,4,"4","Kreis 4",8,"EHK","Ehepaar mit Kind(ern)",29.08,16.89,45.91
+2014,4,"4","Kreis 4",4,"2P","Zweipersonenhaushalt",61.6,38.87,87.73
+2014,4,"4","Kreis 4",1,"1P","Einpersonenhaushalt",44.8,22.7,69.6
+2014,5,"5","Kreis 5",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2014,5,"5","Kreis 5",14,"GH","Generationenhaushalt",,,
+2014,5,"5","Kreis 5",11,"PH","Patchwork-Haushalt",,,
+2014,5,"5","Kreis 5",6,"EP","Eingetragenes Paar ohne Kinder",79.07,55.87,101.87
+2014,5,"5","Kreis 5",13,"WGK","Wohngemeinschaft mit Kind(ern)",49.22,26.14,75
+2014,5,"5","Kreis 5",12,"WG","Wohngemeinschaft ohne Kinder",67.95,43.64,93.48
+2014,5,"5","Kreis 5",10,"PK","Paar mit Kind(ern)",45.97,33.26,69.14
+2014,5,"5","Kreis 5",7,"1EH","Ein-Elternhaushalt",32.38,18.88,53.23
+2014,5,"5","Kreis 5",5,"EH","Ehepaar ohne Kinder",57.93,38.53,92.53
+2014,5,"5","Kreis 5",8,"EHK","Ehepaar mit Kind(ern)",40.2,24.46,62.29
+2014,5,"5","Kreis 5",4,"2P","Zweipersonenhaushalt",75.37,51.33,107.13
+2014,5,"5","Kreis 5",1,"1P","Einpersonenhaushalt",56.7,30.5,86.6
+2014,6,"6","Kreis 6",14,"GH","Generationenhaushalt",,,
+2014,6,"6","Kreis 6",6,"EP","Eingetragenes Paar ohne Kinder",91.6,68.13,122.6
+2014,6,"6","Kreis 6",11,"PH","Patchwork-Haushalt",60.56,36,113.19
+2014,6,"6","Kreis 6",12,"WG","Wohngemeinschaft ohne Kinder",72,49.4,115.95
+2014,6,"6","Kreis 6",13,"WGK","Wohngemeinschaft mit Kind(ern)",60.53,36.62,91.58
+2014,6,"6","Kreis 6",10,"PK","Paar mit Kind(ern)",53.94,33.24,77.5
+2014,6,"6","Kreis 6",7,"1EH","Ein-Elternhaushalt",36.38,23.59,54.13
+2014,6,"6","Kreis 6",4,"2P","Zweipersonenhaushalt",76.4,51.6,109.03
+2014,6,"6","Kreis 6",5,"EH","Ehepaar ohne Kinder",65.3,42.07,105.53
+2014,6,"6","Kreis 6",8,"EHK","Ehepaar mit Kind(ern)",49.89,30.57,80.6
+2014,6,"6","Kreis 6",1,"1P","Einpersonenhaushalt",53.9,30.9,84.1
+2014,7,"7","Kreis 7",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2014,7,"7","Kreis 7",14,"GH","Generationenhaushalt",,,
+2014,7,"7","Kreis 7",11,"PH","Patchwork-Haushalt",71.78,42.24,103.9
+2014,7,"7","Kreis 7",6,"EP","Eingetragenes Paar ohne Kinder",104.7,66.67,143.07
+2014,7,"7","Kreis 7",10,"PK","Paar mit Kind(ern)",63.3,41.75,102.56
+2014,7,"7","Kreis 7",12,"WG","Wohngemeinschaft ohne Kinder",88.98,57.94,137.26
+2014,7,"7","Kreis 7",13,"WGK","Wohngemeinschaft mit Kind(ern)",78.75,50.93,120.43
+2014,7,"7","Kreis 7",7,"1EH","Ein-Elternhaushalt",46.27,27.77,74.34
+2014,7,"7","Kreis 7",4,"2P","Zweipersonenhaushalt",82.77,55.8,121.93
+2014,7,"7","Kreis 7",8,"EHK","Ehepaar mit Kind(ern)",67,42.61,111.17
+2014,7,"7","Kreis 7",5,"EH","Ehepaar ohne Kinder",81.3,49.43,128.73
+2014,7,"7","Kreis 7",1,"1P","Einpersonenhaushalt",61.25,36.45,97.85
+2014,8,"8","Kreis 8",14,"GH","Generationenhaushalt",,,
+2014,8,"8","Kreis 8",11,"PH","Patchwork-Haushalt",,,
+2014,8,"8","Kreis 8",6,"EP","Eingetragenes Paar ohne Kinder",76.33,51.27,100.2
+2014,8,"8","Kreis 8",13,"WGK","Wohngemeinschaft mit Kind(ern)",79.45,41,114.87
+2014,8,"8","Kreis 8",10,"PK","Paar mit Kind(ern)",61.9,34.22,95.06
+2014,8,"8","Kreis 8",12,"WG","Wohngemeinschaft ohne Kinder",102.35,63.55,148.25
+2014,8,"8","Kreis 8",7,"1EH","Ein-Elternhaushalt",42.23,24.11,62.77
+2014,8,"8","Kreis 8",4,"2P","Zweipersonenhaushalt",84.07,54.67,125.13
+2014,8,"8","Kreis 8",8,"EHK","Ehepaar mit Kind(ern)",64.6,41.61,107.36
+2014,8,"8","Kreis 8",5,"EH","Ehepaar ohne Kinder",79.4,46.93,124.77
+2014,8,"8","Kreis 8",1,"1P","Einpersonenhaushalt",63,36.4,101.15
+2014,9,"9","Kreis 9",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2014,9,"9","Kreis 9",14,"GH","Generationenhaushalt",,,
+2014,9,"9","Kreis 9",6,"EP","Eingetragenes Paar ohne Kinder",68.27,40.13,95.67
+2014,9,"9","Kreis 9",11,"PH","Patchwork-Haushalt",36.78,24.95,54.64
+2014,9,"9","Kreis 9",13,"WGK","Wohngemeinschaft mit Kind(ern)",42.89,29.04,60.04
+2014,9,"9","Kreis 9",10,"PK","Paar mit Kind(ern)",41.83,29.67,61.22
+2014,9,"9","Kreis 9",12,"WG","Wohngemeinschaft ohne Kinder",61.33,43.55,88.75
+2014,9,"9","Kreis 9",7,"1EH","Ein-Elternhaushalt",30.23,16.46,46.03
+2014,9,"9","Kreis 9",4,"2P","Zweipersonenhaushalt",64.13,43.47,87.27
+2014,9,"9","Kreis 9",8,"EHK","Ehepaar mit Kind(ern)",36.19,22.72,53.67
+2014,9,"9","Kreis 9",5,"EH","Ehepaar ohne Kinder",48.6,34.67,67
+2014,9,"9","Kreis 9",1,"1P","Einpersonenhaushalt",45.9,27.8,65.45
+2014,10,"10","Kreis 10",14,"GH","Generationenhaushalt",,,
+2014,10,"10","Kreis 10",11,"PH","Patchwork-Haushalt",38.69,26.94,69.17
+2014,10,"10","Kreis 10",6,"EP","Eingetragenes Paar ohne Kinder",68.37,53.67,94.47
+2014,10,"10","Kreis 10",13,"WGK","Wohngemeinschaft mit Kind(ern)",57.2,33.97,81.95
+2014,10,"10","Kreis 10",12,"WG","Wohngemeinschaft ohne Kinder",65.45,43.9,91.25
+2014,10,"10","Kreis 10",10,"PK","Paar mit Kind(ern)",49.72,34.83,74.76
+2014,10,"10","Kreis 10",7,"1EH","Ein-Elternhaushalt",36.73,21.53,54.15
+2014,10,"10","Kreis 10",4,"2P","Zweipersonenhaushalt",72.17,49.97,98.43
+2014,10,"10","Kreis 10",8,"EHK","Ehepaar mit Kind(ern)",46.67,30.29,70.11
+2014,10,"10","Kreis 10",5,"EH","Ehepaar ohne Kinder",59.33,40.83,90.33
+2014,10,"10","Kreis 10",1,"1P","Einpersonenhaushalt",53.6,32.5,76.9
+2014,11,"11","Kreis 11",14,"GH","Generationenhaushalt",,,
+2014,11,"11","Kreis 11",6,"EP","Eingetragenes Paar ohne Kinder",74.03,51.27,102
+2014,11,"11","Kreis 11",11,"PH","Patchwork-Haushalt",35.6,21.95,50.22
+2014,11,"11","Kreis 11",10,"PK","Paar mit Kind(ern)",41.8,29.67,63.67
+2014,11,"11","Kreis 11",12,"WG","Wohngemeinschaft ohne Kinder",58.4,38.38,80.58
+2014,11,"11","Kreis 11",13,"WGK","Wohngemeinschaft mit Kind(ern)",44.22,30.78,61.9
+2014,11,"11","Kreis 11",7,"1EH","Ein-Elternhaushalt",29.27,14.75,46.67
+2014,11,"11","Kreis 11",4,"2P","Zweipersonenhaushalt",66.07,45.87,87.87
+2014,11,"11","Kreis 11",5,"EH","Ehepaar ohne Kinder",51.13,35.8,73.73
+2014,11,"11","Kreis 11",8,"EHK","Ehepaar mit Kind(ern)",38.07,23.18,55.92
+2014,11,"11","Kreis 11",1,"1P","Einpersonenhaushalt",47.4,26.3,68.7
+2014,12,"12","Kreis 12",14,"GH","Generationenhaushalt",,,
+2014,12,"12","Kreis 12",6,"EP","Eingetragenes Paar ohne Kinder",,,
+2014,12,"12","Kreis 12",11,"PH","Patchwork-Haushalt",37.45,21.96,50.5
+2014,12,"12","Kreis 12",10,"PK","Paar mit Kind(ern)",32.58,19.67,45.56
+2014,12,"12","Kreis 12",12,"WG","Wohngemeinschaft ohne Kinder",46,35.12,59.35
+2014,12,"12","Kreis 12",13,"WGK","Wohngemeinschaft mit Kind(ern)",35.65,23.88,48.9
+2014,12,"12","Kreis 12",4,"2P","Zweipersonenhaushalt",54.13,36.47,70.87
+2014,12,"12","Kreis 12",7,"1EH","Ein-Elternhaushalt",23.57,10.31,38.46
+2014,12,"12","Kreis 12",5,"EH","Ehepaar ohne Kinder",42.73,29.2,57.13
+2014,12,"12","Kreis 12",8,"EHK","Ehepaar mit Kind(ern)",28.55,17,43.2
+2014,12,"12","Kreis 12",1,"1P","Einpersonenhaushalt",37,21,55
+2015,1,"1","Kreis 1",14,"GH","Generationenhaushalt",,,
+2015,1,"1","Kreis 1",11,"PH","Patchwork-Haushalt",,,
+2015,1,"1","Kreis 1",6,"EP","Eingetragenes Paar ohne Kinder",,,
+2015,1,"1","Kreis 1",13,"WGK","Wohngemeinschaft mit Kind(ern)",,,
+2015,1,"1","Kreis 1",12,"WG","Wohngemeinschaft ohne Kinder",,,
+2015,1,"1","Kreis 1",10,"PK","Paar mit Kind(ern)",51.81,35.17,87.61
+2015,1,"1","Kreis 1",7,"1EH","Ein-Elternhaushalt",40.4,22.23,59.22
+2015,1,"1","Kreis 1",8,"EHK","Ehepaar mit Kind(ern)",56.38,29.83,90.4
+2015,1,"1","Kreis 1",4,"2P","Zweipersonenhaushalt",81,51.93,123.87
+2015,1,"1","Kreis 1",5,"EH","Ehepaar ohne Kinder",83,54.67,133.33
+2015,1,"1","Kreis 1",1,"1P","Einpersonenhaushalt",60.85,29,103
+2015,2,"2","Kreis 2",14,"GH","Generationenhaushalt",,,
+2015,2,"2","Kreis 2",6,"EP","Eingetragenes Paar ohne Kinder",95.4,56.67,132.13
+2015,2,"2","Kreis 2",11,"PH","Patchwork-Haushalt",42.94,24,68.5
+2015,2,"2","Kreis 2",13,"WGK","Wohngemeinschaft mit Kind(ern)",55.45,35.42,77.6
+2015,2,"2","Kreis 2",12,"WG","Wohngemeinschaft ohne Kinder",75.6,49.95,115.8
+2015,2,"2","Kreis 2",10,"PK","Paar mit Kind(ern)",49.72,33,77.86
+2015,2,"2","Kreis 2",7,"1EH","Ein-Elternhaushalt",34.56,19.69,54.4
+2015,2,"2","Kreis 2",4,"2P","Zweipersonenhaushalt",74.27,51.93,104.47
+2015,2,"2","Kreis 2",5,"EH","Ehepaar ohne Kinder",62.73,41.33,98.67
+2015,2,"2","Kreis 2",8,"EHK","Ehepaar mit Kind(ern)",49.09,29.89,78.33
+2015,2,"2","Kreis 2",1,"1P","Einpersonenhaushalt",54.1,31.8,85.1
+2015,3,"3","Kreis 3",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2015,3,"3","Kreis 3",14,"GH","Generationenhaushalt",,,
+2015,3,"3","Kreis 3",6,"EP","Eingetragenes Paar ohne Kinder",78.1,49.93,104.13
+2015,3,"3","Kreis 3",11,"PH","Patchwork-Haushalt",40.35,27,61.78
+2015,3,"3","Kreis 3",12,"WG","Wohngemeinschaft ohne Kinder",61.45,42.28,94.03
+2015,3,"3","Kreis 3",13,"WGK","Wohngemeinschaft mit Kind(ern)",49.59,30.87,74.05
+2015,3,"3","Kreis 3",10,"PK","Paar mit Kind(ern)",42.89,29.5,63.56
+2015,3,"3","Kreis 3",7,"1EH","Ein-Elternhaushalt",28.43,15.24,45.55
+2015,3,"3","Kreis 3",5,"EH","Ehepaar ohne Kinder",52.07,36.07,78.2
+2015,3,"3","Kreis 3",4,"2P","Zweipersonenhaushalt",66.77,44.47,92.53
+2015,3,"3","Kreis 3",8,"EHK","Ehepaar mit Kind(ern)",36.2,21.1,56.7
+2015,3,"3","Kreis 3",1,"1P","Einpersonenhaushalt",51.2,29.6,75.1
+2015,4,"4","Kreis 4",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2015,4,"4","Kreis 4",14,"GH","Generationenhaushalt",,,
+2015,4,"4","Kreis 4",11,"PH","Patchwork-Haushalt",38.57,23.5,60.72
+2015,4,"4","Kreis 4",6,"EP","Eingetragenes Paar ohne Kinder",59.3,36.8,101.77
+2015,4,"4","Kreis 4",13,"WGK","Wohngemeinschaft mit Kind(ern)",42.26,25.87,62.43
+2015,4,"4","Kreis 4",10,"PK","Paar mit Kind(ern)",39.6,26.12,62.67
+2015,4,"4","Kreis 4",12,"WG","Wohngemeinschaft ohne Kinder",55.43,35.7,83.95
+2015,4,"4","Kreis 4",7,"1EH","Ein-Elternhaushalt",26,11.54,42.4
+2015,4,"4","Kreis 4",5,"EH","Ehepaar ohne Kinder",41.33,25.8,64.73
+2015,4,"4","Kreis 4",8,"EHK","Ehepaar mit Kind(ern)",30,17.39,45.95
+2015,4,"4","Kreis 4",4,"2P","Zweipersonenhaushalt",63.83,40.47,89.97
+2015,4,"4","Kreis 4",1,"1P","Einpersonenhaushalt",45,22.2,70.4
+2015,5,"5","Kreis 5",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2015,5,"5","Kreis 5",14,"GH","Generationenhaushalt",,,
+2015,5,"5","Kreis 5",11,"PH","Patchwork-Haushalt",,,
+2015,5,"5","Kreis 5",6,"EP","Eingetragenes Paar ohne Kinder",78.6,52.8,106.67
+2015,5,"5","Kreis 5",13,"WGK","Wohngemeinschaft mit Kind(ern)",48.27,27.29,71.8
+2015,5,"5","Kreis 5",10,"PK","Paar mit Kind(ern)",50.11,34.24,71.57
+2015,5,"5","Kreis 5",12,"WG","Wohngemeinschaft ohne Kinder",65.18,41.98,102.57
+2015,5,"5","Kreis 5",7,"1EH","Ein-Elternhaushalt",32.25,19.67,52.46
+2015,5,"5","Kreis 5",8,"EHK","Ehepaar mit Kind(ern)",39.12,24.4,63.48
+2015,5,"5","Kreis 5",5,"EH","Ehepaar ohne Kinder",65.2,40.4,101.8
+2015,5,"5","Kreis 5",4,"2P","Zweipersonenhaushalt",80.43,52.67,110.37
+2015,5,"5","Kreis 5",1,"1P","Einpersonenhaushalt",57.5,31.1,87.1
+2015,6,"6","Kreis 6",14,"GH","Generationenhaushalt",,,
+2015,6,"6","Kreis 6",6,"EP","Eingetragenes Paar ohne Kinder",87,57.67,131
+2015,6,"6","Kreis 6",11,"PH","Patchwork-Haushalt",57.13,37.23,78.5
+2015,6,"6","Kreis 6",13,"WGK","Wohngemeinschaft mit Kind(ern)",67.1,34.68,95.97
+2015,6,"6","Kreis 6",12,"WG","Wohngemeinschaft ohne Kinder",78.08,51.45,119.75
+2015,6,"6","Kreis 6",10,"PK","Paar mit Kind(ern)",54.95,34.05,81.33
+2015,6,"6","Kreis 6",7,"1EH","Ein-Elternhaushalt",35.8,24.21,53.33
+2015,6,"6","Kreis 6",4,"2P","Zweipersonenhaushalt",77.4,51.47,110.07
+2015,6,"6","Kreis 6",5,"EH","Ehepaar ohne Kinder",66.8,42.93,107.53
+2015,6,"6","Kreis 6",8,"EHK","Ehepaar mit Kind(ern)",50.76,32.05,80.56
+2015,6,"6","Kreis 6",1,"1P","Einpersonenhaushalt",54.4,31.4,84.1
+2015,7,"7","Kreis 7",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2015,7,"7","Kreis 7",14,"GH","Generationenhaushalt",,,
+2015,7,"7","Kreis 7",11,"PH","Patchwork-Haushalt",73.1,40.74,119.28
+2015,7,"7","Kreis 7",6,"EP","Eingetragenes Paar ohne Kinder",89.73,51.07,118.73
+2015,7,"7","Kreis 7",12,"WG","Wohngemeinschaft ohne Kinder",89.89,55.1,138.1
+2015,7,"7","Kreis 7",13,"WGK","Wohngemeinschaft mit Kind(ern)",80.75,49.04,128.25
+2015,7,"7","Kreis 7",10,"PK","Paar mit Kind(ern)",67,38.95,102.33
+2015,7,"7","Kreis 7",7,"1EH","Ein-Elternhaushalt",47.32,29.35,72.56
+2015,7,"7","Kreis 7",4,"2P","Zweipersonenhaushalt",83.07,53.47,120.07
+2015,7,"7","Kreis 7",5,"EH","Ehepaar ohne Kinder",80.7,49.7,128.77
+2015,7,"7","Kreis 7",8,"EHK","Ehepaar mit Kind(ern)",69.05,43.38,117.95
+2015,7,"7","Kreis 7",1,"1P","Einpersonenhaushalt",61.2,36.2,97.9
+2015,8,"8","Kreis 8",14,"GH","Generationenhaushalt",,,
+2015,8,"8","Kreis 8",11,"PH","Patchwork-Haushalt",,,
+2015,8,"8","Kreis 8",6,"EP","Eingetragenes Paar ohne Kinder",78.33,42.93,108.13
+2015,8,"8","Kreis 8",13,"WGK","Wohngemeinschaft mit Kind(ern)",78.04,43.43,117.85
+2015,8,"8","Kreis 8",10,"PK","Paar mit Kind(ern)",62.86,36.67,95.2
+2015,8,"8","Kreis 8",12,"WG","Wohngemeinschaft ohne Kinder",100.75,63.93,141.36
+2015,8,"8","Kreis 8",7,"1EH","Ein-Elternhaushalt",44.26,26.85,70.61
+2015,8,"8","Kreis 8",4,"2P","Zweipersonenhaushalt",80.93,56.87,124.03
+2015,8,"8","Kreis 8",8,"EHK","Ehepaar mit Kind(ern)",67.27,41.23,111.44
+2015,8,"8","Kreis 8",5,"EH","Ehepaar ohne Kinder",83.6,52.87,134.27
+2015,8,"8","Kreis 8",1,"1P","Einpersonenhaushalt",63.6,35.6,101.8
+2015,9,"9","Kreis 9",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2015,9,"9","Kreis 9",14,"GH","Generationenhaushalt",,,
+2015,9,"9","Kreis 9",6,"EP","Eingetragenes Paar ohne Kinder",73.6,45.27,97.53
+2015,9,"9","Kreis 9",11,"PH","Patchwork-Haushalt",41.77,25.5,57.35
+2015,9,"9","Kreis 9",13,"WGK","Wohngemeinschaft mit Kind(ern)",45.6,31.92,67.95
+2015,9,"9","Kreis 9",12,"WG","Wohngemeinschaft ohne Kinder",58.75,41.92,82.97
+2015,9,"9","Kreis 9",10,"PK","Paar mit Kind(ern)",45.52,30.67,66.28
+2015,9,"9","Kreis 9",7,"1EH","Ein-Elternhaushalt",31.27,16,46.8
+2015,9,"9","Kreis 9",4,"2P","Zweipersonenhaushalt",64.73,43.8,89.2
+2015,9,"9","Kreis 9",5,"EH","Ehepaar ohne Kinder",49.2,34.93,67.6
+2015,9,"9","Kreis 9",8,"EHK","Ehepaar mit Kind(ern)",37.02,22.9,54.5
+2015,9,"9","Kreis 9",1,"1P","Einpersonenhaushalt",46.4,27.7,66.3
+2015,10,"10","Kreis 10",14,"GH","Generationenhaushalt",,,
+2015,10,"10","Kreis 10",11,"PH","Patchwork-Haushalt",48.11,25.22,82.04
+2015,10,"10","Kreis 10",6,"EP","Eingetragenes Paar ohne Kinder",69.7,54.27,84.97
+2015,10,"10","Kreis 10",13,"WGK","Wohngemeinschaft mit Kind(ern)",57.42,36.08,82.15
+2015,10,"10","Kreis 10",12,"WG","Wohngemeinschaft ohne Kinder",70.22,44.15,88.85
+2015,10,"10","Kreis 10",10,"PK","Paar mit Kind(ern)",50.64,34.5,72
+2015,10,"10","Kreis 10",7,"1EH","Ein-Elternhaushalt",36.8,21.53,52.08
+2015,10,"10","Kreis 10",4,"2P","Zweipersonenhaushalt",71.87,49,99.33
+2015,10,"10","Kreis 10",8,"EHK","Ehepaar mit Kind(ern)",47.46,30.76,71.17
+2015,10,"10","Kreis 10",5,"EH","Ehepaar ohne Kinder",59.47,41.13,90.53
+2015,10,"10","Kreis 10",1,"1P","Einpersonenhaushalt",53.8,32.9,77.5
+2015,11,"11","Kreis 11",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2015,11,"11","Kreis 11",14,"GH","Generationenhaushalt",,,
+2015,11,"11","Kreis 11",11,"PH","Patchwork-Haushalt",38.61,23.81,55.33
+2015,11,"11","Kreis 11",6,"EP","Eingetragenes Paar ohne Kinder",73.1,56.03,102.57
+2015,11,"11","Kreis 11",10,"PK","Paar mit Kind(ern)",43.78,29.33,63.61
+2015,11,"11","Kreis 11",12,"WG","Wohngemeinschaft ohne Kinder",58.1,40.36,84.6
+2015,11,"11","Kreis 11",13,"WGK","Wohngemeinschaft mit Kind(ern)",46.15,30.75,65.32
+2015,11,"11","Kreis 11",7,"1EH","Ein-Elternhaushalt",28.33,14.16,46.73
+2015,11,"11","Kreis 11",4,"2P","Zweipersonenhaushalt",65.1,44.47,88.67
+2015,11,"11","Kreis 11",5,"EH","Ehepaar ohne Kinder",51.8,36.53,73.93
+2015,11,"11","Kreis 11",8,"EHK","Ehepaar mit Kind(ern)",37.85,22.71,56.67
+2015,11,"11","Kreis 11",1,"1P","Einpersonenhaushalt",46.9,25.4,69
+2015,12,"12","Kreis 12",14,"GH","Generationenhaushalt",,,
+2015,12,"12","Kreis 12",6,"EP","Eingetragenes Paar ohne Kinder",,,
+2015,12,"12","Kreis 12",11,"PH","Patchwork-Haushalt",32.94,17.57,47.22
+2015,12,"12","Kreis 12",12,"WG","Wohngemeinschaft ohne Kinder",46.58,35.15,61.85
+2015,12,"12","Kreis 12",10,"PK","Paar mit Kind(ern)",35.17,21.62,52.67
+2015,12,"12","Kreis 12",13,"WGK","Wohngemeinschaft mit Kind(ern)",40.3,26,55.76
+2015,12,"12","Kreis 12",7,"1EH","Ein-Elternhaushalt",24.19,9.38,40.13
+2015,12,"12","Kreis 12",4,"2P","Zweipersonenhaushalt",53.83,36.33,73.13
+2015,12,"12","Kreis 12",5,"EH","Ehepaar ohne Kinder",42.93,28.8,59
+2015,12,"12","Kreis 12",8,"EHK","Ehepaar mit Kind(ern)",29.28,17.1,44
+2015,12,"12","Kreis 12",1,"1P","Einpersonenhaushalt",37.1,21.3,55
+2016,1,"1","Kreis 1",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2016,1,"1","Kreis 1",14,"GH","Generationenhaushalt",,,
+2016,1,"1","Kreis 1",11,"PH","Patchwork-Haushalt",,,
+2016,1,"1","Kreis 1",13,"WGK","Wohngemeinschaft mit Kind(ern)",,,
+2016,1,"1","Kreis 1",6,"EP","Eingetragenes Paar ohne Kinder",,,
+2016,1,"1","Kreis 1",10,"PK","Paar mit Kind(ern)",56.06,31.78,88.33
+2016,1,"1","Kreis 1",12,"WG","Wohngemeinschaft ohne Kinder",83.25,59.1,133.55
+2016,1,"1","Kreis 1",7,"1EH","Ein-Elternhaushalt",45.36,22.3,67.9
+2016,1,"1","Kreis 1",8,"EHK","Ehepaar mit Kind(ern)",57.62,30.44,92.94
+2016,1,"1","Kreis 1",4,"2P","Zweipersonenhaushalt",81.53,49,117.8
+2016,1,"1","Kreis 1",5,"EH","Ehepaar ohne Kinder",85.07,52.1,133.7
+2016,1,"1","Kreis 1",1,"1P","Einpersonenhaushalt",60.75,29.6,103.9
+2016,2,"2","Kreis 2",14,"GH","Generationenhaushalt",,,
+2016,2,"2","Kreis 2",6,"EP","Eingetragenes Paar ohne Kinder",82.93,53.57,122.43
+2016,2,"2","Kreis 2",11,"PH","Patchwork-Haushalt",46.48,33.94,77.06
+2016,2,"2","Kreis 2",13,"WGK","Wohngemeinschaft mit Kind(ern)",57.15,37.09,89.26
+2016,2,"2","Kreis 2",12,"WG","Wohngemeinschaft ohne Kinder",75.61,49.55,121.83
+2016,2,"2","Kreis 2",10,"PK","Paar mit Kind(ern)",47.01,31.78,76.83
+2016,2,"2","Kreis 2",7,"1EH","Ein-Elternhaushalt",34.54,20,54.19
+2016,2,"2","Kreis 2",4,"2P","Zweipersonenhaushalt",75.47,52.33,107.67
+2016,2,"2","Kreis 2",5,"EH","Ehepaar ohne Kinder",63.67,43.33,102.27
+2016,2,"2","Kreis 2",8,"EHK","Ehepaar mit Kind(ern)",48.44,30.11,79.28
+2016,2,"2","Kreis 2",1,"1P","Einpersonenhaushalt",54.5,31.1,87.2
+2016,3,"3","Kreis 3",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2016,3,"3","Kreis 3",14,"GH","Generationenhaushalt",,,
+2016,3,"3","Kreis 3",11,"PH","Patchwork-Haushalt",44.56,28.93,64.95
+2016,3,"3","Kreis 3",6,"EP","Eingetragenes Paar ohne Kinder",70.4,49.57,90.83
+2016,3,"3","Kreis 3",13,"WGK","Wohngemeinschaft mit Kind(ern)",51.28,33.3,77.8
+2016,3,"3","Kreis 3",12,"WG","Wohngemeinschaft ohne Kinder",63.1,42.76,101.56
+2016,3,"3","Kreis 3",10,"PK","Paar mit Kind(ern)",42.9,29.06,64.39
+2016,3,"3","Kreis 3",7,"1EH","Ein-Elternhaushalt",28.59,15.5,45.44
+2016,3,"3","Kreis 3",5,"EH","Ehepaar ohne Kinder",52.27,36.07,79.53
+2016,3,"3","Kreis 3",4,"2P","Zweipersonenhaushalt",67.07,45.07,95.93
+2016,3,"3","Kreis 3",8,"EHK","Ehepaar mit Kind(ern)",37,21.48,57.38
+2016,3,"3","Kreis 3",1,"1P","Einpersonenhaushalt",51.4,29.5,76.3
+2016,4,"4","Kreis 4",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2016,4,"4","Kreis 4",14,"GH","Generationenhaushalt",,,
+2016,4,"4","Kreis 4",11,"PH","Patchwork-Haushalt",35.47,23.38,49.28
+2016,4,"4","Kreis 4",6,"EP","Eingetragenes Paar ohne Kinder",65.9,38.07,99.73
+2016,4,"4","Kreis 4",13,"WGK","Wohngemeinschaft mit Kind(ern)",42.55,29.59,62.56
+2016,4,"4","Kreis 4",10,"PK","Paar mit Kind(ern)",44.33,26.94,65.33
+2016,4,"4","Kreis 4",12,"WG","Wohngemeinschaft ohne Kinder",56.24,40.85,88.4
+2016,4,"4","Kreis 4",7,"1EH","Ein-Elternhaushalt",26.67,12.5,44.92
+2016,4,"4","Kreis 4",5,"EH","Ehepaar ohne Kinder",43.5,26.47,69.93
+2016,4,"4","Kreis 4",8,"EHK","Ehepaar mit Kind(ern)",31.2,18.05,48.4
+2016,4,"4","Kreis 4",4,"2P","Zweipersonenhaushalt",63.2,39.67,91.1
+2016,4,"4","Kreis 4",1,"1P","Einpersonenhaushalt",46.3,23.4,73
+2016,5,"5","Kreis 5",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2016,5,"5","Kreis 5",14,"GH","Generationenhaushalt",,,
+2016,5,"5","Kreis 5",11,"PH","Patchwork-Haushalt",,,
+2016,5,"5","Kreis 5",6,"EP","Eingetragenes Paar ohne Kinder",90.6,63.33,117.67
+2016,5,"5","Kreis 5",13,"WGK","Wohngemeinschaft mit Kind(ern)",46.89,28.89,72.23
+2016,5,"5","Kreis 5",12,"WG","Wohngemeinschaft ohne Kinder",67.81,46.3,94.45
+2016,5,"5","Kreis 5",10,"PK","Paar mit Kind(ern)",49.19,36.56,77.89
+2016,5,"5","Kreis 5",7,"1EH","Ein-Elternhaushalt",33.04,18.08,52.42
+2016,5,"5","Kreis 5",8,"EHK","Ehepaar mit Kind(ern)",42.89,24.78,68.25
+2016,5,"5","Kreis 5",5,"EH","Ehepaar ohne Kinder",69.3,40.53,111.7
+2016,5,"5","Kreis 5",4,"2P","Zweipersonenhaushalt",82.2,55.93,116.97
+2016,5,"5","Kreis 5",1,"1P","Einpersonenhaushalt",58.8,31.6,91.4
+2016,6,"6","Kreis 6",14,"GH","Generationenhaushalt",,,
+2016,6,"6","Kreis 6",11,"PH","Patchwork-Haushalt",56.25,38.67,76.78
+2016,6,"6","Kreis 6",6,"EP","Eingetragenes Paar ohne Kinder",85.4,54.8,132.53
+2016,6,"6","Kreis 6",13,"WGK","Wohngemeinschaft mit Kind(ern)",58.63,37.19,82.57
+2016,6,"6","Kreis 6",12,"WG","Wohngemeinschaft ohne Kinder",71.4,46.65,99.88
+2016,6,"6","Kreis 6",10,"PK","Paar mit Kind(ern)",52.36,33.74,76.73
+2016,6,"6","Kreis 6",7,"1EH","Ein-Elternhaushalt",37.2,22.8,59.19
+2016,6,"6","Kreis 6",4,"2P","Zweipersonenhaushalt",78.47,52.93,114.1
+2016,6,"6","Kreis 6",5,"EH","Ehepaar ohne Kinder",67.53,42.67,110.13
+2016,6,"6","Kreis 6",8,"EHK","Ehepaar mit Kind(ern)",52.61,32.76,83.03
+2016,6,"6","Kreis 6",1,"1P","Einpersonenhaushalt",54.8,32.1,85.3
+2016,7,"7","Kreis 7",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2016,7,"7","Kreis 7",14,"GH","Generationenhaushalt",,,
+2016,7,"7","Kreis 7",11,"PH","Patchwork-Haushalt",74.03,46.43,107.89
+2016,7,"7","Kreis 7",6,"EP","Eingetragenes Paar ohne Kinder",90.23,53.47,142.07
+2016,7,"7","Kreis 7",12,"WG","Wohngemeinschaft ohne Kinder",86.11,55.75,127.92
+2016,7,"7","Kreis 7",13,"WGK","Wohngemeinschaft mit Kind(ern)",89,53.24,131.48
+2016,7,"7","Kreis 7",10,"PK","Paar mit Kind(ern)",65.71,41.67,100.24
+2016,7,"7","Kreis 7",7,"1EH","Ein-Elternhaushalt",48.84,30.77,74.25
+2016,7,"7","Kreis 7",4,"2P","Zweipersonenhaushalt",83.87,55.87,121.27
+2016,7,"7","Kreis 7",5,"EH","Ehepaar ohne Kinder",83.53,50.87,134.87
+2016,7,"7","Kreis 7",8,"EHK","Ehepaar mit Kind(ern)",69.05,44.06,113.89
+2016,7,"7","Kreis 7",1,"1P","Einpersonenhaushalt",62.3,36.2,98.9
+2016,8,"8","Kreis 8",14,"GH","Generationenhaushalt",,,
+2016,8,"8","Kreis 8",11,"PH","Patchwork-Haushalt",,,
+2016,8,"8","Kreis 8",6,"EP","Eingetragenes Paar ohne Kinder",72.13,47,101.67
+2016,8,"8","Kreis 8",13,"WGK","Wohngemeinschaft mit Kind(ern)",83.02,44.55,138.96
+2016,8,"8","Kreis 8",12,"WG","Wohngemeinschaft ohne Kinder",90.75,64.8,145.4
+2016,8,"8","Kreis 8",10,"PK","Paar mit Kind(ern)",60.4,34.13,95.67
+2016,8,"8","Kreis 8",7,"1EH","Ein-Elternhaushalt",45.39,26.43,70.9
+2016,8,"8","Kreis 8",4,"2P","Zweipersonenhaushalt",84.4,53.87,129.67
+2016,8,"8","Kreis 8",5,"EH","Ehepaar ohne Kinder",84.73,52.33,137.67
+2016,8,"8","Kreis 8",8,"EHK","Ehepaar mit Kind(ern)",66.29,41.81,114.52
+2016,8,"8","Kreis 8",1,"1P","Einpersonenhaushalt",65.4,35.9,104.5
+2016,9,"9","Kreis 9",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2016,9,"9","Kreis 9",14,"GH","Generationenhaushalt",,,
+2016,9,"9","Kreis 9",6,"EP","Eingetragenes Paar ohne Kinder",68.8,42.03,95.13
+2016,9,"9","Kreis 9",11,"PH","Patchwork-Haushalt",43.28,30.89,56.6
+2016,9,"9","Kreis 9",13,"WGK","Wohngemeinschaft mit Kind(ern)",46.42,31.17,70.7
+2016,9,"9","Kreis 9",12,"WG","Wohngemeinschaft ohne Kinder",60.65,43.65,86.5
+2016,9,"9","Kreis 9",10,"PK","Paar mit Kind(ern)",46.59,32.4,64.92
+2016,9,"9","Kreis 9",7,"1EH","Ein-Elternhaushalt",29.47,15.31,45.68
+2016,9,"9","Kreis 9",4,"2P","Zweipersonenhaushalt",66.73,46.13,91.13
+2016,9,"9","Kreis 9",5,"EH","Ehepaar ohne Kinder",50.07,34.87,70
+2016,9,"9","Kreis 9",8,"EHK","Ehepaar mit Kind(ern)",37.47,23.24,56.18
+2016,9,"9","Kreis 9",1,"1P","Einpersonenhaushalt",46.7,27.7,66.9
+2016,10,"10","Kreis 10",15,"FV","Familien-Verbund",,,
+2016,10,"10","Kreis 10",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2016,10,"10","Kreis 10",14,"GH","Generationenhaushalt",,,
+2016,10,"10","Kreis 10",11,"PH","Patchwork-Haushalt",57.8,32.28,87.88
+2016,10,"10","Kreis 10",6,"EP","Eingetragenes Paar ohne Kinder",66.53,49.4,86.6
+2016,10,"10","Kreis 10",13,"WGK","Wohngemeinschaft mit Kind(ern)",56.59,37.48,85.49
+2016,10,"10","Kreis 10",12,"WG","Wohngemeinschaft ohne Kinder",64.75,40.6,90.52
+2016,10,"10","Kreis 10",10,"PK","Paar mit Kind(ern)",50.1,36.25,73.11
+2016,10,"10","Kreis 10",7,"1EH","Ein-Elternhaushalt",36.52,21.93,53.02
+2016,10,"10","Kreis 10",4,"2P","Zweipersonenhaushalt",72.97,51.07,99.07
+2016,10,"10","Kreis 10",5,"EH","Ehepaar ohne Kinder",61.03,41.47,91.6
+2016,10,"10","Kreis 10",8,"EHK","Ehepaar mit Kind(ern)",47.31,31.27,71.61
+2016,10,"10","Kreis 10",1,"1P","Einpersonenhaushalt",54.1,32.6,78.3
+2016,11,"11","Kreis 11",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2016,11,"11","Kreis 11",14,"GH","Generationenhaushalt",,,
+2016,11,"11","Kreis 11",11,"PH","Patchwork-Haushalt",38.62,22.1,51.1
+2016,11,"11","Kreis 11",6,"EP","Eingetragenes Paar ohne Kinder",75.4,50.73,103.13
+2016,11,"11","Kreis 11",12,"WG","Wohngemeinschaft ohne Kinder",58.4,38.05,87.75
+2016,11,"11","Kreis 11",10,"PK","Paar mit Kind(ern)",44.44,31.16,65.06
+2016,11,"11","Kreis 11",13,"WGK","Wohngemeinschaft mit Kind(ern)",47.45,30.81,63.54
+2016,11,"11","Kreis 11",7,"1EH","Ein-Elternhaushalt",29.85,14.4,47
+2016,11,"11","Kreis 11",4,"2P","Zweipersonenhaushalt",67.13,45.67,90.6
+2016,11,"11","Kreis 11",5,"EH","Ehepaar ohne Kinder",51.8,35.93,73.6
+2016,11,"11","Kreis 11",8,"EHK","Ehepaar mit Kind(ern)",38.29,23.23,57.82
+2016,11,"11","Kreis 11",1,"1P","Einpersonenhaushalt",47.2,24.9,69.4
+2016,12,"12","Kreis 12",14,"GH","Generationenhaushalt",,,
+2016,12,"12","Kreis 12",6,"EP","Eingetragenes Paar ohne Kinder",,,
+2016,12,"12","Kreis 12",11,"PH","Patchwork-Haushalt",40.75,23.67,55.81
+2016,12,"12","Kreis 12",12,"WG","Wohngemeinschaft ohne Kinder",43.96,28.8,61.2
+2016,12,"12","Kreis 12",13,"WGK","Wohngemeinschaft mit Kind(ern)",41.18,28.84,59.33
+2016,12,"12","Kreis 12",10,"PK","Paar mit Kind(ern)",35.25,23.93,51.08
+2016,12,"12","Kreis 12",7,"1EH","Ein-Elternhaushalt",25.4,11.3,40.5
+2016,12,"12","Kreis 12",4,"2P","Zweipersonenhaushalt",55.33,35,75.47
+2016,12,"12","Kreis 12",5,"EH","Ehepaar ohne Kinder",43.73,29.53,60.07
+2016,12,"12","Kreis 12",8,"EHK","Ehepaar mit Kind(ern)",29.14,17.1,44.48
+2016,12,"12","Kreis 12",1,"1P","Einpersonenhaushalt",38,21.3,55.9
+2017,1,"1","Kreis 1",14,"GH","Generationenhaushalt",,,
+2017,1,"1","Kreis 1",11,"PH","Patchwork-Haushalt",,,
+2017,1,"1","Kreis 1",13,"WGK","Wohngemeinschaft mit Kind(ern)",,,
+2017,1,"1","Kreis 1",6,"EP","Eingetragenes Paar ohne Kinder",,,
+2017,1,"1","Kreis 1",10,"PK","Paar mit Kind(ern)",48.3,34.1,88.83
+2017,1,"1","Kreis 1",12,"WG","Wohngemeinschaft ohne Kinder",77.95,46.92,120.2
+2017,1,"1","Kreis 1",7,"1EH","Ein-Elternhaushalt",44.11,20.87,74.87
+2017,1,"1","Kreis 1",8,"EHK","Ehepaar mit Kind(ern)",52.57,31.52,85.57
+2017,1,"1","Kreis 1",5,"EH","Ehepaar ohne Kinder",90.4,55,141.6
+2017,1,"1","Kreis 1",4,"2P","Zweipersonenhaushalt",79.67,46.13,127.33
+2017,1,"1","Kreis 1",1,"1P","Einpersonenhaushalt",60.8,31.5,102
+2017,2,"2","Kreis 2",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2017,2,"2","Kreis 2",14,"GH","Generationenhaushalt",,,
+2017,2,"2","Kreis 2",6,"EP","Eingetragenes Paar ohne Kinder",70.47,51.8,115.53
+2017,2,"2","Kreis 2",11,"PH","Patchwork-Haushalt",42.88,32.56,76
+2017,2,"2","Kreis 2",13,"WGK","Wohngemeinschaft mit Kind(ern)",58.15,34.52,89.55
+2017,2,"2","Kreis 2",12,"WG","Wohngemeinschaft ohne Kinder",70.85,42.7,132
+2017,2,"2","Kreis 2",10,"PK","Paar mit Kind(ern)",47.86,31.94,74.83
+2017,2,"2","Kreis 2",7,"1EH","Ein-Elternhaushalt",34.25,19.73,55.36
+2017,2,"2","Kreis 2",4,"2P","Zweipersonenhaushalt",74.83,49.4,105.93
+2017,2,"2","Kreis 2",5,"EH","Ehepaar ohne Kinder",66.53,43.6,104.2
+2017,2,"2","Kreis 2",8,"EHK","Ehepaar mit Kind(ern)",49.71,30.29,81.33
+2017,2,"2","Kreis 2",1,"1P","Einpersonenhaushalt",54.9,32.1,86.5
+2017,3,"3","Kreis 3",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2017,3,"3","Kreis 3",14,"GH","Generationenhaushalt",,,
+2017,3,"3","Kreis 3",11,"PH","Patchwork-Haushalt",44.61,29.28,61.94
+2017,3,"3","Kreis 3",6,"EP","Eingetragenes Paar ohne Kinder",70.87,53.13,98.8
+2017,3,"3","Kreis 3",13,"WGK","Wohngemeinschaft mit Kind(ern)",55.24,32.83,82.2
+2017,3,"3","Kreis 3",12,"WG","Wohngemeinschaft ohne Kinder",66.3,41.5,102.85
+2017,3,"3","Kreis 3",10,"PK","Paar mit Kind(ern)",42.98,27.99,65.88
+2017,3,"3","Kreis 3",7,"1EH","Ein-Elternhaushalt",28.69,16.62,46.07
+2017,3,"3","Kreis 3",5,"EH","Ehepaar ohne Kinder",54.2,36.73,82.67
+2017,3,"3","Kreis 3",4,"2P","Zweipersonenhaushalt",67.07,45,96.53
+2017,3,"3","Kreis 3",8,"EHK","Ehepaar mit Kind(ern)",37.51,22.1,58.19
+2017,3,"3","Kreis 3",1,"1P","Einpersonenhaushalt",52.3,29.9,77.4
+2017,4,"4","Kreis 4",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2017,4,"4","Kreis 4",14,"GH","Generationenhaushalt",,,
+2017,4,"4","Kreis 4",11,"PH","Patchwork-Haushalt",42.35,26.5,64.94
+2017,4,"4","Kreis 4",6,"EP","Eingetragenes Paar ohne Kinder",60.73,38.47,97.4
+2017,4,"4","Kreis 4",13,"WGK","Wohngemeinschaft mit Kind(ern)",42.06,29.53,63.26
+2017,4,"4","Kreis 4",10,"PK","Paar mit Kind(ern)",43.31,27.82,64.14
+2017,4,"4","Kreis 4",12,"WG","Wohngemeinschaft ohne Kinder",58.3,36.6,89.75
+2017,4,"4","Kreis 4",7,"1EH","Ein-Elternhaushalt",26.87,13.33,43.8
+2017,4,"4","Kreis 4",5,"EH","Ehepaar ohne Kinder",45.47,27.93,75.53
+2017,4,"4","Kreis 4",8,"EHK","Ehepaar mit Kind(ern)",32.46,18.65,50.27
+2017,4,"4","Kreis 4",4,"2P","Zweipersonenhaushalt",64.17,40.4,93.73
+2017,4,"4","Kreis 4",1,"1P","Einpersonenhaushalt",46.4,23.2,72.8
+2017,5,"5","Kreis 5",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2017,5,"5","Kreis 5",14,"GH","Generationenhaushalt",,,
+2017,5,"5","Kreis 5",11,"PH","Patchwork-Haushalt",41.5,26.98,65.43
+2017,5,"5","Kreis 5",6,"EP","Eingetragenes Paar ohne Kinder",96.13,64.37,137.93
+2017,5,"5","Kreis 5",13,"WGK","Wohngemeinschaft mit Kind(ern)",55.1,33.17,89.65
+2017,5,"5","Kreis 5",12,"WG","Wohngemeinschaft ohne Kinder",71,46.65,110.25
+2017,5,"5","Kreis 5",10,"PK","Paar mit Kind(ern)",51.56,36.08,79.03
+2017,5,"5","Kreis 5",7,"1EH","Ein-Elternhaushalt",31.09,16.27,54.89
+2017,5,"5","Kreis 5",8,"EHK","Ehepaar mit Kind(ern)",45.41,27.72,72.32
+2017,5,"5","Kreis 5",5,"EH","Ehepaar ohne Kinder",71.27,42.93,111.4
+2017,5,"5","Kreis 5",4,"2P","Zweipersonenhaushalt",78.2,51,111.47
+2017,5,"5","Kreis 5",1,"1P","Einpersonenhaushalt",59.4,33.3,93.3
+2017,6,"6","Kreis 6",14,"GH","Generationenhaushalt",,,
+2017,6,"6","Kreis 6",11,"PH","Patchwork-Haushalt",54.33,34.16,84
+2017,6,"6","Kreis 6",6,"EP","Eingetragenes Paar ohne Kinder",86.2,52.27,140.07
+2017,6,"6","Kreis 6",13,"WGK","Wohngemeinschaft mit Kind(ern)",58.85,38.09,87.2
+2017,6,"6","Kreis 6",12,"WG","Wohngemeinschaft ohne Kinder",72.12,47.55,111.68
+2017,6,"6","Kreis 6",10,"PK","Paar mit Kind(ern)",55.16,34.72,79.31
+2017,6,"6","Kreis 6",7,"1EH","Ein-Elternhaushalt",36.58,22.52,54.34
+2017,6,"6","Kreis 6",4,"2P","Zweipersonenhaushalt",77.13,51.6,110.27
+2017,6,"6","Kreis 6",5,"EH","Ehepaar ohne Kinder",69.37,44.6,112.2
+2017,6,"6","Kreis 6",8,"EHK","Ehepaar mit Kind(ern)",53.25,32.5,83.6
+2017,6,"6","Kreis 6",1,"1P","Einpersonenhaushalt",54.4,31.2,84
+2017,7,"7","Kreis 7",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2017,7,"7","Kreis 7",14,"GH","Generationenhaushalt",,,
+2017,7,"7","Kreis 7",11,"PH","Patchwork-Haushalt",82.42,46.48,126.56
+2017,7,"7","Kreis 7",6,"EP","Eingetragenes Paar ohne Kinder",87.07,57.2,139.53
+2017,7,"7","Kreis 7",12,"WG","Wohngemeinschaft ohne Kinder",95.48,60.18,135.1
+2017,7,"7","Kreis 7",13,"WGK","Wohngemeinschaft mit Kind(ern)",82.31,52.05,133.32
+2017,7,"7","Kreis 7",10,"PK","Paar mit Kind(ern)",62.9,41.71,102.56
+2017,7,"7","Kreis 7",7,"1EH","Ein-Elternhaushalt",49.2,29.92,76.06
+2017,7,"7","Kreis 7",4,"2P","Zweipersonenhaushalt",82.67,53.4,120.27
+2017,7,"7","Kreis 7",5,"EH","Ehepaar ohne Kinder",84.07,50.87,136.33
+2017,7,"7","Kreis 7",8,"EHK","Ehepaar mit Kind(ern)",70.41,44.44,117.81
+2017,7,"7","Kreis 7",1,"1P","Einpersonenhaushalt",61.7,35.45,100
+2017,8,"8","Kreis 8",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2017,8,"8","Kreis 8",14,"GH","Generationenhaushalt",,,
+2017,8,"8","Kreis 8",11,"PH","Patchwork-Haushalt",,,
+2017,8,"8","Kreis 8",6,"EP","Eingetragenes Paar ohne Kinder",72.8,43.2,100.8
+2017,8,"8","Kreis 8",13,"WGK","Wohngemeinschaft mit Kind(ern)",90.72,54.1,150.96
+2017,8,"8","Kreis 8",10,"PK","Paar mit Kind(ern)",62.66,37.78,99.19
+2017,8,"8","Kreis 8",12,"WG","Wohngemeinschaft ohne Kinder",102.3,60,149
+2017,8,"8","Kreis 8",7,"1EH","Ein-Elternhaushalt",45.11,27,71.2
+2017,8,"8","Kreis 8",5,"EH","Ehepaar ohne Kinder",88,53.33,149.93
+2017,8,"8","Kreis 8",4,"2P","Zweipersonenhaushalt",83.9,56.13,127
+2017,8,"8","Kreis 8",8,"EHK","Ehepaar mit Kind(ern)",68.3,42.33,114.48
+2017,8,"8","Kreis 8",1,"1P","Einpersonenhaushalt",65.45,36.35,105.7
+2017,9,"9","Kreis 9",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2017,9,"9","Kreis 9",14,"GH","Generationenhaushalt",,,
+2017,9,"9","Kreis 9",11,"PH","Patchwork-Haushalt",41.11,29.38,56.67
+2017,9,"9","Kreis 9",6,"EP","Eingetragenes Paar ohne Kinder",68.33,43.33,95.17
+2017,9,"9","Kreis 9",13,"WGK","Wohngemeinschaft mit Kind(ern)",47.48,30.46,69.8
+2017,9,"9","Kreis 9",12,"WG","Wohngemeinschaft ohne Kinder",62.08,40.35,89.45
+2017,9,"9","Kreis 9",10,"PK","Paar mit Kind(ern)",47.33,33.24,66.17
+2017,9,"9","Kreis 9",7,"1EH","Ein-Elternhaushalt",30.4,15.67,46.31
+2017,9,"9","Kreis 9",4,"2P","Zweipersonenhaushalt",66.87,45.93,91.13
+2017,9,"9","Kreis 9",5,"EH","Ehepaar ohne Kinder",50.33,35.33,71.6
+2017,9,"9","Kreis 9",8,"EHK","Ehepaar mit Kind(ern)",38.65,23.33,56.43
+2017,9,"9","Kreis 9",1,"1P","Einpersonenhaushalt",47.6,28,68.1
+2017,10,"10","Kreis 10",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2017,10,"10","Kreis 10",14,"GH","Generationenhaushalt",,,
+2017,10,"10","Kreis 10",11,"PH","Patchwork-Haushalt",50.5,32.35,77.94
+2017,10,"10","Kreis 10",6,"EP","Eingetragenes Paar ohne Kinder",73.27,59.27,99.07
+2017,10,"10","Kreis 10",13,"WGK","Wohngemeinschaft mit Kind(ern)",53.99,35.59,79.53
+2017,10,"10","Kreis 10",12,"WG","Wohngemeinschaft ohne Kinder",64.2,41.23,91.23
+2017,10,"10","Kreis 10",10,"PK","Paar mit Kind(ern)",50.67,35.58,73.89
+2017,10,"10","Kreis 10",7,"1EH","Ein-Elternhaushalt",38.2,23.08,54.15
+2017,10,"10","Kreis 10",4,"2P","Zweipersonenhaushalt",73.53,49.47,97.4
+2017,10,"10","Kreis 10",5,"EH","Ehepaar ohne Kinder",62.67,42.6,93.47
+2017,10,"10","Kreis 10",8,"EHK","Ehepaar mit Kind(ern)",48.12,31.86,73.08
+2017,10,"10","Kreis 10",1,"1P","Einpersonenhaushalt",53.3,31.5,78.3
+2017,11,"11","Kreis 11",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2017,11,"11","Kreis 11",14,"GH","Generationenhaushalt",,,
+2017,11,"11","Kreis 11",11,"PH","Patchwork-Haushalt",39.5,24.83,52.62
+2017,11,"11","Kreis 11",6,"EP","Eingetragenes Paar ohne Kinder",77.47,49.67,104.6
+2017,11,"11","Kreis 11",12,"WG","Wohngemeinschaft ohne Kinder",60.36,36.75,86.1
+2017,11,"11","Kreis 11",13,"WGK","Wohngemeinschaft mit Kind(ern)",46.68,31.94,63.76
+2017,11,"11","Kreis 11",10,"PK","Paar mit Kind(ern)",45.38,32.14,67.56
+2017,11,"11","Kreis 11",7,"1EH","Ein-Elternhaushalt",28.7,12.73,47
+2017,11,"11","Kreis 11",4,"2P","Zweipersonenhaushalt",67.13,45.67,89.67
+2017,11,"11","Kreis 11",5,"EH","Ehepaar ohne Kinder",52.4,36.67,74.33
+2017,11,"11","Kreis 11",8,"EHK","Ehepaar mit Kind(ern)",38.72,23.63,58.12
+2017,11,"11","Kreis 11",1,"1P","Einpersonenhaushalt",47.7,26,69.65
+2017,12,"12","Kreis 12",14,"GH","Generationenhaushalt",,,
+2017,12,"12","Kreis 12",6,"EP","Eingetragenes Paar ohne Kinder",,,
+2017,12,"12","Kreis 12",11,"PH","Patchwork-Haushalt",38.7,22.78,49.87
+2017,12,"12","Kreis 12",12,"WG","Wohngemeinschaft ohne Kinder",49.15,32.35,65.65
+2017,12,"12","Kreis 12",13,"WGK","Wohngemeinschaft mit Kind(ern)",40.33,29.32,51.6
+2017,12,"12","Kreis 12",10,"PK","Paar mit Kind(ern)",39.44,26.5,55.33
+2017,12,"12","Kreis 12",7,"1EH","Ein-Elternhaushalt",24.2,11.23,39.8
+2017,12,"12","Kreis 12",4,"2P","Zweipersonenhaushalt",56.6,36.7,74.4
+2017,12,"12","Kreis 12",5,"EH","Ehepaar ohne Kinder",44.53,30.33,60.73
+2017,12,"12","Kreis 12",8,"EHK","Ehepaar mit Kind(ern)",29.83,18.08,46.29
+2017,12,"12","Kreis 12",1,"1P","Einpersonenhaushalt",38.1,20.9,56.4
+2018,1,"1","Kreis 1",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2018,1,"1","Kreis 1",14,"GH","Generationenhaushalt",,,
+2018,1,"1","Kreis 1",11,"PH","Patchwork-Haushalt",,,
+2018,1,"1","Kreis 1",13,"WGK","Wohngemeinschaft mit Kind(ern)",,,
+2018,1,"1","Kreis 1",6,"EP","Eingetragenes Paar ohne Kinder",,,
+2018,1,"1","Kreis 1",10,"PK","Paar mit Kind(ern)",54.12,31.57,89.76
+2018,1,"1","Kreis 1",12,"WG","Wohngemeinschaft ohne Kinder",88.6,61.28,153.45
+2018,1,"1","Kreis 1",7,"1EH","Ein-Elternhaushalt",43.92,20.31,76.53
+2018,1,"1","Kreis 1",8,"EHK","Ehepaar mit Kind(ern)",54.03,32.04,101.35
+2018,1,"1","Kreis 1",5,"EH","Ehepaar ohne Kinder",84.67,51.47,146.67
+2018,1,"1","Kreis 1",4,"2P","Zweipersonenhaushalt",80.03,50.53,117.27
+2018,1,"1","Kreis 1",1,"1P","Einpersonenhaushalt",59.4,29.6,103.2
+2018,2,"2","Kreis 2",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2018,2,"2","Kreis 2",14,"GH","Generationenhaushalt",,,
+2018,2,"2","Kreis 2",6,"EP","Eingetragenes Paar ohne Kinder",91.63,57.87,140.93
+2018,2,"2","Kreis 2",11,"PH","Patchwork-Haushalt",51.55,35.5,88.5
+2018,2,"2","Kreis 2",13,"WGK","Wohngemeinschaft mit Kind(ern)",57.92,32.6,91.5
+2018,2,"2","Kreis 2",12,"WG","Wohngemeinschaft ohne Kinder",72.16,46.65,119.5
+2018,2,"2","Kreis 2",10,"PK","Paar mit Kind(ern)",50.21,34.95,76.38
+2018,2,"2","Kreis 2",7,"1EH","Ein-Elternhaushalt",35.13,18.4,56.4
+2018,2,"2","Kreis 2",4,"2P","Zweipersonenhaushalt",75.33,49.13,106.93
+2018,2,"2","Kreis 2",5,"EH","Ehepaar ohne Kinder",69.33,44.47,108.73
+2018,2,"2","Kreis 2",8,"EHK","Ehepaar mit Kind(ern)",49.11,30.74,82.6
+2018,2,"2","Kreis 2",1,"1P","Einpersonenhaushalt",56.4,32.6,89.6
+2018,3,"3","Kreis 3",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2018,3,"3","Kreis 3",14,"GH","Generationenhaushalt",,,
+2018,3,"3","Kreis 3",6,"EP","Eingetragenes Paar ohne Kinder",69.9,54.53,99.2
+2018,3,"3","Kreis 3",11,"PH","Patchwork-Haushalt",52.19,31.19,64.18
+2018,3,"3","Kreis 3",13,"WGK","Wohngemeinschaft mit Kind(ern)",56.95,34,83.91
+2018,3,"3","Kreis 3",12,"WG","Wohngemeinschaft ohne Kinder",69.8,42.25,110.4
+2018,3,"3","Kreis 3",10,"PK","Paar mit Kind(ern)",43.83,29.57,65.83
+2018,3,"3","Kreis 3",7,"1EH","Ein-Elternhaushalt",29.67,16.45,45.6
+2018,3,"3","Kreis 3",5,"EH","Ehepaar ohne Kinder",54.8,37.2,84.67
+2018,3,"3","Kreis 3",4,"2P","Zweipersonenhaushalt",69.23,46.27,99.73
+2018,3,"3","Kreis 3",8,"EHK","Ehepaar mit Kind(ern)",38.95,22.95,60.23
+2018,3,"3","Kreis 3",1,"1P","Einpersonenhaushalt",52.3,30.3,78.4
+2018,4,"4","Kreis 4",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2018,4,"4","Kreis 4",14,"GH","Generationenhaushalt",,,
+2018,4,"4","Kreis 4",11,"PH","Patchwork-Haushalt",43.33,31.17,65
+2018,4,"4","Kreis 4",6,"EP","Eingetragenes Paar ohne Kinder",67.4,41.6,107.4
+2018,4,"4","Kreis 4",13,"WGK","Wohngemeinschaft mit Kind(ern)",46.21,31.7,67.6
+2018,4,"4","Kreis 4",10,"PK","Paar mit Kind(ern)",42.5,28.5,62.28
+2018,4,"4","Kreis 4",12,"WG","Wohngemeinschaft ohne Kinder",59.6,39.83,92.4
+2018,4,"4","Kreis 4",7,"1EH","Ein-Elternhaushalt",26.91,13.04,45.11
+2018,4,"4","Kreis 4",5,"EH","Ehepaar ohne Kinder",47.23,29,82.27
+2018,4,"4","Kreis 4",8,"EHK","Ehepaar mit Kind(ern)",32.85,19.05,52.83
+2018,4,"4","Kreis 4",4,"2P","Zweipersonenhaushalt",66.8,40.53,95.8
+2018,4,"4","Kreis 4",1,"1P","Einpersonenhaushalt",48,23.9,74.7
+2018,5,"5","Kreis 5",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2018,5,"5","Kreis 5",14,"GH","Generationenhaushalt",,,
+2018,5,"5","Kreis 5",11,"PH","Patchwork-Haushalt",44.22,21.78,64.44
+2018,5,"5","Kreis 5",6,"EP","Eingetragenes Paar ohne Kinder",100.63,70.03,134.33
+2018,5,"5","Kreis 5",13,"WGK","Wohngemeinschaft mit Kind(ern)",61.48,46.44,101.79
+2018,5,"5","Kreis 5",10,"PK","Paar mit Kind(ern)",55.1,38.95,89.28
+2018,5,"5","Kreis 5",12,"WG","Wohngemeinschaft ohne Kinder",80.55,51.9,114.2
+2018,5,"5","Kreis 5",7,"1EH","Ein-Elternhaushalt",32.27,19.54,53.27
+2018,5,"5","Kreis 5",5,"EH","Ehepaar ohne Kinder",72.5,41.67,114.2
+2018,5,"5","Kreis 5",8,"EHK","Ehepaar mit Kind(ern)",47.64,29.89,77.75
+2018,5,"5","Kreis 5",4,"2P","Zweipersonenhaushalt",82.67,53.73,117.27
+2018,5,"5","Kreis 5",1,"1P","Einpersonenhaushalt",59.8,33.7,93.6
+2018,6,"6","Kreis 6",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2018,6,"6","Kreis 6",14,"GH","Generationenhaushalt",,,
+2018,6,"6","Kreis 6",11,"PH","Patchwork-Haushalt",57.37,30.18,76.42
+2018,6,"6","Kreis 6",6,"EP","Eingetragenes Paar ohne Kinder",101.23,63.67,147.8
+2018,6,"6","Kreis 6",13,"WGK","Wohngemeinschaft mit Kind(ern)",63.96,37.04,88.4
+2018,6,"6","Kreis 6",12,"WG","Wohngemeinschaft ohne Kinder",73.03,48.55,108.91
+2018,6,"6","Kreis 6",10,"PK","Paar mit Kind(ern)",58.67,35.94,84.95
+2018,6,"6","Kreis 6",7,"1EH","Ein-Elternhaushalt",37.08,22.53,55.93
+2018,6,"6","Kreis 6",4,"2P","Zweipersonenhaushalt",78.57,51.27,111.2
+2018,6,"6","Kreis 6",5,"EH","Ehepaar ohne Kinder",71.67,44.93,113.6
+2018,6,"6","Kreis 6",8,"EHK","Ehepaar mit Kind(ern)",54.39,34.1,86.11
+2018,6,"6","Kreis 6",1,"1P","Einpersonenhaushalt",54.9,31.5,85.9
+2018,7,"7","Kreis 7",14,"GH","Generationenhaushalt",,,
+2018,7,"7","Kreis 7",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2018,7,"7","Kreis 7",11,"PH","Patchwork-Haushalt",75.3,49.78,105.48
+2018,7,"7","Kreis 7",6,"EP","Eingetragenes Paar ohne Kinder",88.27,59.6,137.8
+2018,7,"7","Kreis 7",12,"WG","Wohngemeinschaft ohne Kinder",95.18,60.84,148.95
+2018,7,"7","Kreis 7",13,"WGK","Wohngemeinschaft mit Kind(ern)",86.97,55.36,133.68
+2018,7,"7","Kreis 7",10,"PK","Paar mit Kind(ern)",65.15,43.06,103.67
+2018,7,"7","Kreis 7",7,"1EH","Ein-Elternhaushalt",50.6,31.33,78
+2018,7,"7","Kreis 7",4,"2P","Zweipersonenhaushalt",82.53,54.07,123.6
+2018,7,"7","Kreis 7",5,"EH","Ehepaar ohne Kinder",84.33,53.17,137.27
+2018,7,"7","Kreis 7",8,"EHK","Ehepaar mit Kind(ern)",72.34,45,117.22
+2018,7,"7","Kreis 7",1,"1P","Einpersonenhaushalt",61.7,35.7,99.9
+2018,8,"8","Kreis 8",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2018,8,"8","Kreis 8",14,"GH","Generationenhaushalt",,,
+2018,8,"8","Kreis 8",11,"PH","Patchwork-Haushalt",57.36,39.18,80.72
+2018,8,"8","Kreis 8",6,"EP","Eingetragenes Paar ohne Kinder",95.73,65.67,144.27
+2018,8,"8","Kreis 8",13,"WGK","Wohngemeinschaft mit Kind(ern)",89.8,57.86,134.17
+2018,8,"8","Kreis 8",10,"PK","Paar mit Kind(ern)",62.59,38.33,96.56
+2018,8,"8","Kreis 8",12,"WG","Wohngemeinschaft ohne Kinder",99.47,67.8,164.03
+2018,8,"8","Kreis 8",7,"1EH","Ein-Elternhaushalt",47.27,29.33,79.88
+2018,8,"8","Kreis 8",4,"2P","Zweipersonenhaushalt",88.67,57.93,132.73
+2018,8,"8","Kreis 8",5,"EH","Ehepaar ohne Kinder",88.33,51.93,146.4
+2018,8,"8","Kreis 8",8,"EHK","Ehepaar mit Kind(ern)",68.9,43.33,119
+2018,8,"8","Kreis 8",1,"1P","Einpersonenhaushalt",68.2,37.5,111
+2018,9,"9","Kreis 9",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2018,9,"9","Kreis 9",14,"GH","Generationenhaushalt",,,
+2018,9,"9","Kreis 9",11,"PH","Patchwork-Haushalt",42.85,26.94,55.57
+2018,9,"9","Kreis 9",6,"EP","Eingetragenes Paar ohne Kinder",70.47,48.73,95.93
+2018,9,"9","Kreis 9",13,"WGK","Wohngemeinschaft mit Kind(ern)",48.43,32.26,72.35
+2018,9,"9","Kreis 9",12,"WG","Wohngemeinschaft ohne Kinder",62.2,42.45,93.7
+2018,9,"9","Kreis 9",10,"PK","Paar mit Kind(ern)",47.24,34.39,66.06
+2018,9,"9","Kreis 9",7,"1EH","Ein-Elternhaushalt",31.34,15.88,47.38
+2018,9,"9","Kreis 9",4,"2P","Zweipersonenhaushalt",69,46.27,93.8
+2018,9,"9","Kreis 9",5,"EH","Ehepaar ohne Kinder",52.07,36.4,74
+2018,9,"9","Kreis 9",8,"EHK","Ehepaar mit Kind(ern)",39.67,25.19,58.33
+2018,9,"9","Kreis 9",1,"1P","Einpersonenhaushalt",48.5,28.6,70.1
+2018,10,"10","Kreis 10",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2018,10,"10","Kreis 10",14,"GH","Generationenhaushalt",,,
+2018,10,"10","Kreis 10",11,"PH","Patchwork-Haushalt",50.33,32,70.94
+2018,10,"10","Kreis 10",6,"EP","Eingetragenes Paar ohne Kinder",70.13,55.8,106.33
+2018,10,"10","Kreis 10",13,"WGK","Wohngemeinschaft mit Kind(ern)",56.5,38.7,85.08
+2018,10,"10","Kreis 10",12,"WG","Wohngemeinschaft ohne Kinder",69.45,48.35,92.8
+2018,10,"10","Kreis 10",10,"PK","Paar mit Kind(ern)",51.94,35.76,74.74
+2018,10,"10","Kreis 10",7,"1EH","Ein-Elternhaushalt",38.27,22.28,54.15
+2018,10,"10","Kreis 10",4,"2P","Zweipersonenhaushalt",73.13,49.8,99.33
+2018,10,"10","Kreis 10",5,"EH","Ehepaar ohne Kinder",62.57,42.4,94.07
+2018,10,"10","Kreis 10",8,"EHK","Ehepaar mit Kind(ern)",48.8,32.28,73.95
+2018,10,"10","Kreis 10",1,"1P","Einpersonenhaushalt",54.2,32.9,79.1
+2018,11,"11","Kreis 11",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2018,11,"11","Kreis 11",14,"GH","Generationenhaushalt",,,
+2018,11,"11","Kreis 11",11,"PH","Patchwork-Haushalt",41.17,23.97,53.56
+2018,11,"11","Kreis 11",6,"EP","Eingetragenes Paar ohne Kinder",73.77,51,108.8
+2018,11,"11","Kreis 11",12,"WG","Wohngemeinschaft ohne Kinder",60.25,39.85,91.5
+2018,11,"11","Kreis 11",13,"WGK","Wohngemeinschaft mit Kind(ern)",48.04,31.63,68.16
+2018,11,"11","Kreis 11",10,"PK","Paar mit Kind(ern)",46.25,32.57,65.94
+2018,11,"11","Kreis 11",7,"1EH","Ein-Elternhaushalt",30.17,14.44,47.73
+2018,11,"11","Kreis 11",4,"2P","Zweipersonenhaushalt",68.4,47,91.47
+2018,11,"11","Kreis 11",5,"EH","Ehepaar ohne Kinder",52.87,36.67,76.4
+2018,11,"11","Kreis 11",8,"EHK","Ehepaar mit Kind(ern)",39.67,24.55,59.67
+2018,11,"11","Kreis 11",1,"1P","Einpersonenhaushalt",48,25.9,70.6
+2018,12,"12","Kreis 12",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2018,12,"12","Kreis 12",14,"GH","Generationenhaushalt",,,
+2018,12,"12","Kreis 12",6,"EP","Eingetragenes Paar ohne Kinder",,,
+2018,12,"12","Kreis 12",11,"PH","Patchwork-Haushalt",39.9,30.33,53.44
+2018,12,"12","Kreis 12",12,"WG","Wohngemeinschaft ohne Kinder",49.4,28.35,67
+2018,12,"12","Kreis 12",13,"WGK","Wohngemeinschaft mit Kind(ern)",42.48,26.49,54.57
+2018,12,"12","Kreis 12",10,"PK","Paar mit Kind(ern)",38.19,24.85,54.05
+2018,12,"12","Kreis 12",7,"1EH","Ein-Elternhaushalt",25.13,11.6,40.36
+2018,12,"12","Kreis 12",4,"2P","Zweipersonenhaushalt",56.67,35.6,77.67
+2018,12,"12","Kreis 12",5,"EH","Ehepaar ohne Kinder",44.57,30.87,62.6
+2018,12,"12","Kreis 12",8,"EHK","Ehepaar mit Kind(ern)",30.96,18.9,46.75
+2018,12,"12","Kreis 12",1,"1P","Einpersonenhaushalt",38.8,21.6,56.7
+2019,1,"1","Kreis 1",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2019,1,"1","Kreis 1",11,"PH","Patchwork-Haushalt",,,
+2019,1,"1","Kreis 1",6,"EP","Eingetragenes Paar ohne Kinder",,,
+2019,1,"1","Kreis 1",13,"WGK","Wohngemeinschaft mit Kind(ern)",51.32,29.7,90.8
+2019,1,"1","Kreis 1",10,"PK","Paar mit Kind(ern)",47.17,27.95,91.44
+2019,1,"1","Kreis 1",12,"WG","Wohngemeinschaft ohne Kinder",83.38,62.54,129.38
+2019,1,"1","Kreis 1",7,"1EH","Ein-Elternhaushalt",44.64,21.31,66.62
+2019,1,"1","Kreis 1",8,"EHK","Ehepaar mit Kind(ern)",55.84,37.67,87.65
+2019,1,"1","Kreis 1",5,"EH","Ehepaar ohne Kinder",91.23,51.7,139.57
+2019,1,"1","Kreis 1",4,"2P","Zweipersonenhaushalt",86.13,51,122.73
+2019,1,"1","Kreis 1",1,"1P","Einpersonenhaushalt",59.55,28.8,104.55
+2019,2,"2","Kreis 2",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2019,2,"2","Kreis 2",14,"GH","Generationenhaushalt",,,
+2019,2,"2","Kreis 2",6,"EP","Eingetragenes Paar ohne Kinder",83.4,61.53,137.4
+2019,2,"2","Kreis 2",11,"PH","Patchwork-Haushalt",45.64,35.94,93.44
+2019,2,"2","Kreis 2",13,"WGK","Wohngemeinschaft mit Kind(ern)",63.64,36.4,90.1
+2019,2,"2","Kreis 2",12,"WG","Wohngemeinschaft ohne Kinder",76.4,48.95,112.4
+2019,2,"2","Kreis 2",10,"PK","Paar mit Kind(ern)",50.39,34.09,73.05
+2019,2,"2","Kreis 2",7,"1EH","Ein-Elternhaushalt",37.1,20,58.27
+2019,2,"2","Kreis 2",4,"2P","Zweipersonenhaushalt",77.17,52.4,110.2
+2019,2,"2","Kreis 2",5,"EH","Ehepaar ohne Kinder",70.27,45.33,111.07
+2019,2,"2","Kreis 2",8,"EHK","Ehepaar mit Kind(ern)",50.56,32.3,85.86
+2019,2,"2","Kreis 2",1,"1P","Einpersonenhaushalt",57,33.3,90
+2019,3,"3","Kreis 3",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2019,3,"3","Kreis 3",14,"GH","Generationenhaushalt",,,
+2019,3,"3","Kreis 3",11,"PH","Patchwork-Haushalt",54.19,38.5,74.22
+2019,3,"3","Kreis 3",6,"EP","Eingetragenes Paar ohne Kinder",73.27,48.73,103.67
+2019,3,"3","Kreis 3",13,"WGK","Wohngemeinschaft mit Kind(ern)",53.77,33.3,83.12
+2019,3,"3","Kreis 3",12,"WG","Wohngemeinschaft ohne Kinder",70.28,41.9,108.95
+2019,3,"3","Kreis 3",10,"PK","Paar mit Kind(ern)",46.02,31.1,70.06
+2019,3,"3","Kreis 3",7,"1EH","Ein-Elternhaushalt",29.77,16.67,45.07
+2019,3,"3","Kreis 3",5,"EH","Ehepaar ohne Kinder",55.93,37.13,86.27
+2019,3,"3","Kreis 3",4,"2P","Zweipersonenhaushalt",70.2,47.2,100.13
+2019,3,"3","Kreis 3",8,"EHK","Ehepaar mit Kind(ern)",39.72,23.38,62
+2019,3,"3","Kreis 3",1,"1P","Einpersonenhaushalt",53.8,31.2,80.2
+2019,4,"4","Kreis 4",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2019,4,"4","Kreis 4",14,"GH","Generationenhaushalt",,,
+2019,4,"4","Kreis 4",11,"PH","Patchwork-Haushalt",42.58,21.47,57.31
+2019,4,"4","Kreis 4",6,"EP","Eingetragenes Paar ohne Kinder",65.77,49.03,101.53
+2019,4,"4","Kreis 4",13,"WGK","Wohngemeinschaft mit Kind(ern)",44.81,30.77,64.33
+2019,4,"4","Kreis 4",10,"PK","Paar mit Kind(ern)",45.5,28,66.33
+2019,4,"4","Kreis 4",12,"WG","Wohngemeinschaft ohne Kinder",60.88,39.45,89.88
+2019,4,"4","Kreis 4",7,"1EH","Ein-Elternhaushalt",27.51,14.62,45.63
+2019,4,"4","Kreis 4",5,"EH","Ehepaar ohne Kinder",51.43,30.67,89
+2019,4,"4","Kreis 4",8,"EHK","Ehepaar mit Kind(ern)",35.92,19.24,56
+2019,4,"4","Kreis 4",4,"2P","Zweipersonenhaushalt",70.03,44.53,98.73
+2019,4,"4","Kreis 4",1,"1P","Einpersonenhaushalt",49.7,24.5,78.2
+2019,5,"5","Kreis 5",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2019,5,"5","Kreis 5",14,"GH","Generationenhaushalt",,,
+2019,5,"5","Kreis 5",11,"PH","Patchwork-Haushalt",44.89,28.5,67.75
+2019,5,"5","Kreis 5",13,"WGK","Wohngemeinschaft mit Kind(ern)",61.74,38.96,90.8
+2019,5,"5","Kreis 5",6,"EP","Eingetragenes Paar ohne Kinder",100.33,72.93,132.1
+2019,5,"5","Kreis 5",12,"WG","Wohngemeinschaft ohne Kinder",77.2,54.4,109.85
+2019,5,"5","Kreis 5",7,"1EH","Ein-Elternhaushalt",32,20.03,55.5
+2019,5,"5","Kreis 5",10,"PK","Paar mit Kind(ern)",55.62,39.68,83.89
+2019,5,"5","Kreis 5",5,"EH","Ehepaar ohne Kinder",75.73,45.47,117.27
+2019,5,"5","Kreis 5",8,"EHK","Ehepaar mit Kind(ern)",51.83,30.44,83.9
+2019,5,"5","Kreis 5",4,"2P","Zweipersonenhaushalt",82.8,53.8,117.33
+2019,5,"5","Kreis 5",1,"1P","Einpersonenhaushalt",60.9,34.9,94.8
+2019,6,"6","Kreis 6",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2019,6,"6","Kreis 6",14,"GH","Generationenhaushalt",,,
+2019,6,"6","Kreis 6",11,"PH","Patchwork-Haushalt",60.57,42.44,83.5
+2019,6,"6","Kreis 6",6,"EP","Eingetragenes Paar ohne Kinder",100.9,68.07,151.47
+2019,6,"6","Kreis 6",13,"WGK","Wohngemeinschaft mit Kind(ern)",63.55,42.19,90.87
+2019,6,"6","Kreis 6",12,"WG","Wohngemeinschaft ohne Kinder",73.25,44,106.3
+2019,6,"6","Kreis 6",10,"PK","Paar mit Kind(ern)",56.67,37.4,88.81
+2019,6,"6","Kreis 6",7,"1EH","Ein-Elternhaushalt",37.4,23.25,57.07
+2019,6,"6","Kreis 6",4,"2P","Zweipersonenhaushalt",80.67,54.93,113.33
+2019,6,"6","Kreis 6",5,"EH","Ehepaar ohne Kinder",71.67,45.47,115.73
+2019,6,"6","Kreis 6",8,"EHK","Ehepaar mit Kind(ern)",56.5,33.87,87.87
+2019,6,"6","Kreis 6",1,"1P","Einpersonenhaushalt",56,32.9,86.8
+2019,7,"7","Kreis 7",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2019,7,"7","Kreis 7",14,"GH","Generationenhaushalt",,,
+2019,7,"7","Kreis 7",11,"PH","Patchwork-Haushalt",71.8,50.17,97.61
+2019,7,"7","Kreis 7",6,"EP","Eingetragenes Paar ohne Kinder",91.9,59.27,146.53
+2019,7,"7","Kreis 7",12,"WG","Wohngemeinschaft ohne Kinder",85.35,50.48,144.58
+2019,7,"7","Kreis 7",13,"WGK","Wohngemeinschaft mit Kind(ern)",79.87,47.6,127.31
+2019,7,"7","Kreis 7",10,"PK","Paar mit Kind(ern)",68.66,46.33,108.43
+2019,7,"7","Kreis 7",7,"1EH","Ein-Elternhaushalt",52.19,33.08,78.73
+2019,7,"7","Kreis 7",4,"2P","Zweipersonenhaushalt",83.1,57.87,123.4
+2019,7,"7","Kreis 7",5,"EH","Ehepaar ohne Kinder",86.27,54.03,138.33
+2019,7,"7","Kreis 7",8,"EHK","Ehepaar mit Kind(ern)",72.5,46.67,118.11
+2019,7,"7","Kreis 7",1,"1P","Einpersonenhaushalt",63.1,36.4,100.55
+2019,8,"8","Kreis 8",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2019,8,"8","Kreis 8",14,"GH","Generationenhaushalt",,,
+2019,8,"8","Kreis 8",11,"PH","Patchwork-Haushalt",65.83,42.81,93.7
+2019,8,"8","Kreis 8",6,"EP","Eingetragenes Paar ohne Kinder",93.33,60.33,116.67
+2019,8,"8","Kreis 8",13,"WGK","Wohngemeinschaft mit Kind(ern)",93.29,52.55,144.36
+2019,8,"8","Kreis 8",12,"WG","Wohngemeinschaft ohne Kinder",97.35,65.43,136.64
+2019,8,"8","Kreis 8",10,"PK","Paar mit Kind(ern)",67.24,43.56,106.5
+2019,8,"8","Kreis 8",7,"1EH","Ein-Elternhaushalt",49.5,29.75,81.87
+2019,8,"8","Kreis 8",4,"2P","Zweipersonenhaushalt",88.93,55.33,131.97
+2019,8,"8","Kreis 8",5,"EH","Ehepaar ohne Kinder",93.67,57,156.47
+2019,8,"8","Kreis 8",8,"EHK","Ehepaar mit Kind(ern)",72.75,45.43,114.67
+2019,8,"8","Kreis 8",1,"1P","Einpersonenhaushalt",67.7,38.1,108.9
+2019,9,"9","Kreis 9",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2019,9,"9","Kreis 9",14,"GH","Generationenhaushalt",,,
+2019,9,"9","Kreis 9",11,"PH","Patchwork-Haushalt",38,22.52,56.5
+2019,9,"9","Kreis 9",6,"EP","Eingetragenes Paar ohne Kinder",71.33,50.4,98.33
+2019,9,"9","Kreis 9",13,"WGK","Wohngemeinschaft mit Kind(ern)",48.15,31.46,74.64
+2019,9,"9","Kreis 9",12,"WG","Wohngemeinschaft ohne Kinder",66,42.85,90.25
+2019,9,"9","Kreis 9",10,"PK","Paar mit Kind(ern)",49.5,34.79,69.22
+2019,9,"9","Kreis 9",7,"1EH","Ein-Elternhaushalt",31.31,17,47.64
+2019,9,"9","Kreis 9",4,"2P","Zweipersonenhaushalt",69.07,46,94.53
+2019,9,"9","Kreis 9",5,"EH","Ehepaar ohne Kinder",52.6,37.2,75.27
+2019,9,"9","Kreis 9",8,"EHK","Ehepaar mit Kind(ern)",41.07,26.39,59.36
+2019,9,"9","Kreis 9",1,"1P","Einpersonenhaushalt",50,29.7,71.5
+2019,10,"10","Kreis 10",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2019,10,"10","Kreis 10",14,"GH","Generationenhaushalt",,,
+2019,10,"10","Kreis 10",11,"PH","Patchwork-Haushalt",50.85,35.8,83.45
+2019,10,"10","Kreis 10",6,"EP","Eingetragenes Paar ohne Kinder",75.3,56.6,111.07
+2019,10,"10","Kreis 10",13,"WGK","Wohngemeinschaft mit Kind(ern)",57.62,40.5,79.79
+2019,10,"10","Kreis 10",12,"WG","Wohngemeinschaft ohne Kinder",65.25,47.9,93.36
+2019,10,"10","Kreis 10",10,"PK","Paar mit Kind(ern)",53.74,36.94,76.28
+2019,10,"10","Kreis 10",7,"1EH","Ein-Elternhaushalt",37.19,21.4,55
+2019,10,"10","Kreis 10",4,"2P","Zweipersonenhaushalt",74.03,51.03,99.87
+2019,10,"10","Kreis 10",5,"EH","Ehepaar ohne Kinder",63.27,42.87,95.07
+2019,10,"10","Kreis 10",8,"EHK","Ehepaar mit Kind(ern)",50.39,33.75,74.98
+2019,10,"10","Kreis 10",1,"1P","Einpersonenhaushalt",55,33.2,79.6
+2019,11,"11","Kreis 11",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2019,11,"11","Kreis 11",14,"GH","Generationenhaushalt",,,
+2019,11,"11","Kreis 11",11,"PH","Patchwork-Haushalt",41.5,23.81,62.1
+2019,11,"11","Kreis 11",6,"EP","Eingetragenes Paar ohne Kinder",75.8,55.67,110.43
+2019,11,"11","Kreis 11",13,"WGK","Wohngemeinschaft mit Kind(ern)",45.56,31.48,65.7
+2019,11,"11","Kreis 11",12,"WG","Wohngemeinschaft ohne Kinder",61.15,41.5,87.8
+2019,11,"11","Kreis 11",10,"PK","Paar mit Kind(ern)",45.74,32.67,68.57
+2019,11,"11","Kreis 11",7,"1EH","Ein-Elternhaushalt",30.54,16.08,49.13
+2019,11,"11","Kreis 11",4,"2P","Zweipersonenhaushalt",68.87,46.93,92.47
+2019,11,"11","Kreis 11",5,"EH","Ehepaar ohne Kinder",53.77,37,79.47
+2019,11,"11","Kreis 11",8,"EHK","Ehepaar mit Kind(ern)",41.06,25.57,61.65
+2019,11,"11","Kreis 11",1,"1P","Einpersonenhaushalt",48.7,26.3,71.3
+2019,12,"12","Kreis 12",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2019,12,"12","Kreis 12",14,"GH","Generationenhaushalt",,,
+2019,12,"12","Kreis 12",6,"EP","Eingetragenes Paar ohne Kinder",,,
+2019,12,"12","Kreis 12",11,"PH","Patchwork-Haushalt",39.02,24.47,53.51
+2019,12,"12","Kreis 12",12,"WG","Wohngemeinschaft ohne Kinder",49.63,32.1,71.1
+2019,12,"12","Kreis 12",13,"WGK","Wohngemeinschaft mit Kind(ern)",41.55,28.5,57.37
+2019,12,"12","Kreis 12",10,"PK","Paar mit Kind(ern)",36.81,25.64,53.09
+2019,12,"12","Kreis 12",7,"1EH","Ein-Elternhaushalt",25.62,11.95,42.47
+2019,12,"12","Kreis 12",4,"2P","Zweipersonenhaushalt",57,36.73,77.87
+2019,12,"12","Kreis 12",5,"EH","Ehepaar ohne Kinder",45.6,31.4,62.73
+2019,12,"12","Kreis 12",8,"EHK","Ehepaar mit Kind(ern)",31.68,19.64,47.67
+2019,12,"12","Kreis 12",1,"1P","Einpersonenhaushalt",39.45,22,57.7
+2020,1,"1","Kreis 1",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2020,1,"1","Kreis 1",14,"GH","Generationenhaushalt",,,
+2020,1,"1","Kreis 1",11,"PH","Patchwork-Haushalt",,,
+2020,1,"1","Kreis 1",6,"EP","Eingetragenes Paar ohne Kinder",,,
+2020,1,"1","Kreis 1",13,"WGK","Wohngemeinschaft mit Kind(ern)",,,
+2020,1,"1","Kreis 1",10,"PK","Paar mit Kind(ern)",45,30.19,72.15
+2020,1,"1","Kreis 1",12,"WG","Wohngemeinschaft ohne Kinder",83.4,55.16,124.6
+2020,1,"1","Kreis 1",7,"1EH","Ein-Elternhaushalt",43.6,22.07,65.13
+2020,1,"1","Kreis 1",8,"EHK","Ehepaar mit Kind(ern)",59.86,35.55,90.67
+2020,1,"1","Kreis 1",5,"EH","Ehepaar ohne Kinder",81.67,51.2,133.8
+2020,1,"1","Kreis 1",4,"2P","Zweipersonenhaushalt",84.47,52.33,115.73
+2020,1,"1","Kreis 1",1,"1P","Einpersonenhaushalt",61.9,29.8,104.6
+2020,2,"2","Kreis 2",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2020,2,"2","Kreis 2",14,"GH","Generationenhaushalt",,,
+2020,2,"2","Kreis 2",11,"PH","Patchwork-Haushalt",49.83,40.82,85.03
+2020,2,"2","Kreis 2",6,"EP","Eingetragenes Paar ohne Kinder",91.93,63.33,126.67
+2020,2,"2","Kreis 2",13,"WGK","Wohngemeinschaft mit Kind(ern)",51.78,30.5,87.25
+2020,2,"2","Kreis 2",12,"WG","Wohngemeinschaft ohne Kinder",66.95,44.45,116.6
+2020,2,"2","Kreis 2",10,"PK","Paar mit Kind(ern)",50.28,34,76.38
+2020,2,"2","Kreis 2",7,"1EH","Ein-Elternhaushalt",36.56,19.89,58.2
+2020,2,"2","Kreis 2",4,"2P","Zweipersonenhaushalt",80.53,51.47,112.4
+2020,2,"2","Kreis 2",5,"EH","Ehepaar ohne Kinder",69.33,45.87,109.2
+2020,2,"2","Kreis 2",8,"EHK","Ehepaar mit Kind(ern)",52.71,33.54,85.22
+2020,2,"2","Kreis 2",1,"1P","Einpersonenhaushalt",57,33.8,90.5
+2020,3,"3","Kreis 3",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2020,3,"3","Kreis 3",14,"GH","Generationenhaushalt",,,
+2020,3,"3","Kreis 3",11,"PH","Patchwork-Haushalt",53.65,32.76,71.17
+2020,3,"3","Kreis 3",6,"EP","Eingetragenes Paar ohne Kinder",80.4,56.27,103.33
+2020,3,"3","Kreis 3",13,"WGK","Wohngemeinschaft mit Kind(ern)",51.2,34.61,80.6
+2020,3,"3","Kreis 3",12,"WG","Wohngemeinschaft ohne Kinder",64.33,41,104.35
+2020,3,"3","Kreis 3",10,"PK","Paar mit Kind(ern)",47.11,32.29,70.86
+2020,3,"3","Kreis 3",7,"1EH","Ein-Elternhaushalt",30.28,16.72,47.45
+2020,3,"3","Kreis 3",5,"EH","Ehepaar ohne Kinder",55.17,37.2,85.5
+2020,3,"3","Kreis 3",4,"2P","Zweipersonenhaushalt",70.8,47.27,101.6
+2020,3,"3","Kreis 3",8,"EHK","Ehepaar mit Kind(ern)",40.5,23.7,64.13
+2020,3,"3","Kreis 3",1,"1P","Einpersonenhaushalt",54.1,31.6,81
+2020,4,"4","Kreis 4",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2020,4,"4","Kreis 4",14,"GH","Generationenhaushalt",,,
+2020,4,"4","Kreis 4",11,"PH","Patchwork-Haushalt",46.23,25.11,73.5
+2020,4,"4","Kreis 4",6,"EP","Eingetragenes Paar ohne Kinder",69.33,46.07,100.53
+2020,4,"4","Kreis 4",13,"WGK","Wohngemeinschaft mit Kind(ern)",50.88,32.84,67.83
+2020,4,"4","Kreis 4",10,"PK","Paar mit Kind(ern)",48.72,30.29,71.56
+2020,4,"4","Kreis 4",12,"WG","Wohngemeinschaft ohne Kinder",62.8,38.85,95.1
+2020,4,"4","Kreis 4",7,"1EH","Ein-Elternhaushalt",28.8,15.22,47.69
+2020,4,"4","Kreis 4",5,"EH","Ehepaar ohne Kinder",51,31.13,87.47
+2020,4,"4","Kreis 4",8,"EHK","Ehepaar mit Kind(ern)",37,20.43,56.05
+2020,4,"4","Kreis 4",4,"2P","Zweipersonenhaushalt",70.2,44.73,98.8
+2020,4,"4","Kreis 4",1,"1P","Einpersonenhaushalt",50.2,25.7,80
+2020,5,"5","Kreis 5",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2020,5,"5","Kreis 5",14,"GH","Generationenhaushalt",,,
+2020,5,"5","Kreis 5",11,"PH","Patchwork-Haushalt",49.83,23.5,69.78
+2020,5,"5","Kreis 5",13,"WGK","Wohngemeinschaft mit Kind(ern)",58.1,37.5,93.42
+2020,5,"5","Kreis 5",6,"EP","Eingetragenes Paar ohne Kinder",102.3,69.33,143.4
+2020,5,"5","Kreis 5",12,"WG","Wohngemeinschaft ohne Kinder",77.13,53.75,116.15
+2020,5,"5","Kreis 5",10,"PK","Paar mit Kind(ern)",55.54,38.52,89.92
+2020,5,"5","Kreis 5",7,"1EH","Ein-Elternhaushalt",35.13,19.92,58
+2020,5,"5","Kreis 5",5,"EH","Ehepaar ohne Kinder",75.6,44.27,116.6
+2020,5,"5","Kreis 5",8,"EHK","Ehepaar mit Kind(ern)",52.19,33,82.5
+2020,5,"5","Kreis 5",4,"2P","Zweipersonenhaushalt",84.63,55.63,118.67
+2020,5,"5","Kreis 5",1,"1P","Einpersonenhaushalt",59.9,32.9,93.9
+2020,6,"6","Kreis 6",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2020,6,"6","Kreis 6",14,"GH","Generationenhaushalt",,,
+2020,6,"6","Kreis 6",11,"PH","Patchwork-Haushalt",60.06,43.65,78.2
+2020,6,"6","Kreis 6",6,"EP","Eingetragenes Paar ohne Kinder",87.4,55.6,141.6
+2020,6,"6","Kreis 6",13,"WGK","Wohngemeinschaft mit Kind(ern)",65,41.88,96.96
+2020,6,"6","Kreis 6",12,"WG","Wohngemeinschaft ohne Kinder",70.99,43.85,108.2
+2020,6,"6","Kreis 6",10,"PK","Paar mit Kind(ern)",60.72,39.72,90.48
+2020,6,"6","Kreis 6",7,"1EH","Ein-Elternhaushalt",38,23.6,59.78
+2020,6,"6","Kreis 6",4,"2P","Zweipersonenhaushalt",80.6,53.8,112.2
+2020,6,"6","Kreis 6",5,"EH","Ehepaar ohne Kinder",72.27,45.53,116
+2020,6,"6","Kreis 6",8,"EHK","Ehepaar mit Kind(ern)",57.18,34.93,90.53
+2020,6,"6","Kreis 6",1,"1P","Einpersonenhaushalt",56,32.6,87.25
+2020,7,"7","Kreis 7",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2020,7,"7","Kreis 7",14,"GH","Generationenhaushalt",,,
+2020,7,"7","Kreis 7",11,"PH","Patchwork-Haushalt",83.9,49.65,122.17
+2020,7,"7","Kreis 7",6,"EP","Eingetragenes Paar ohne Kinder",100.4,65.67,130.53
+2020,7,"7","Kreis 7",12,"WG","Wohngemeinschaft ohne Kinder",86.05,52,131.28
+2020,7,"7","Kreis 7",13,"WGK","Wohngemeinschaft mit Kind(ern)",79.38,51.15,132.32
+2020,7,"7","Kreis 7",10,"PK","Paar mit Kind(ern)",65.9,44.38,104.67
+2020,7,"7","Kreis 7",7,"1EH","Ein-Elternhaushalt",50.74,30.21,80.87
+2020,7,"7","Kreis 7",4,"2P","Zweipersonenhaushalt",83.87,56.87,123.33
+2020,7,"7","Kreis 7",5,"EH","Ehepaar ohne Kinder",86,54.67,137.13
+2020,7,"7","Kreis 7",8,"EHK","Ehepaar mit Kind(ern)",72.23,46.5,115.63
+2020,7,"7","Kreis 7",1,"1P","Einpersonenhaushalt",63.1,36.6,100
+2020,8,"8","Kreis 8",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2020,8,"8","Kreis 8",14,"GH","Generationenhaushalt",,,
+2020,8,"8","Kreis 8",11,"PH","Patchwork-Haushalt",78.39,46.44,110.67
+2020,8,"8","Kreis 8",6,"EP","Eingetragenes Paar ohne Kinder",107.07,75.53,142.6
+2020,8,"8","Kreis 8",13,"WGK","Wohngemeinschaft mit Kind(ern)",83.14,49.67,121.11
+2020,8,"8","Kreis 8",12,"WG","Wohngemeinschaft ohne Kinder",88.24,58.4,139.2
+2020,8,"8","Kreis 8",10,"PK","Paar mit Kind(ern)",68.31,42.48,107.25
+2020,8,"8","Kreis 8",7,"1EH","Ein-Elternhaushalt",47.2,29,74.93
+2020,8,"8","Kreis 8",4,"2P","Zweipersonenhaushalt",87.43,54.93,126.2
+2020,8,"8","Kreis 8",5,"EH","Ehepaar ohne Kinder",90.97,55.9,152.33
+2020,8,"8","Kreis 8",8,"EHK","Ehepaar mit Kind(ern)",70.31,44.88,111.78
+2020,8,"8","Kreis 8",1,"1P","Einpersonenhaushalt",68.2,38.65,108.85
+2020,9,"9","Kreis 9",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2020,9,"9","Kreis 9",14,"GH","Generationenhaushalt",,,
+2020,9,"9","Kreis 9",11,"PH","Patchwork-Haushalt",42.25,23.19,62.6
+2020,9,"9","Kreis 9",6,"EP","Eingetragenes Paar ohne Kinder",72.17,49.67,99.13
+2020,9,"9","Kreis 9",13,"WGK","Wohngemeinschaft mit Kind(ern)",44.96,31.08,70.4
+2020,9,"9","Kreis 9",12,"WG","Wohngemeinschaft ohne Kinder",63.25,39.35,88.75
+2020,9,"9","Kreis 9",10,"PK","Paar mit Kind(ern)",48.92,35.28,70.54
+2020,9,"9","Kreis 9",7,"1EH","Ein-Elternhaushalt",30.73,16.61,47.07
+2020,9,"9","Kreis 9",4,"2P","Zweipersonenhaushalt",69.6,47.27,95.47
+2020,9,"9","Kreis 9",5,"EH","Ehepaar ohne Kinder",52.63,37.2,74.8
+2020,9,"9","Kreis 9",8,"EHK","Ehepaar mit Kind(ern)",41.87,27.05,61.17
+2020,9,"9","Kreis 9",1,"1P","Einpersonenhaushalt",50,30,72.4
+2020,10,"10","Kreis 10",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2020,10,"10","Kreis 10",14,"GH","Generationenhaushalt",,,
+2020,10,"10","Kreis 10",11,"PH","Patchwork-Haushalt",47.42,30.81,69.3
+2020,10,"10","Kreis 10",6,"EP","Eingetragenes Paar ohne Kinder",74.93,53.33,100.67
+2020,10,"10","Kreis 10",13,"WGK","Wohngemeinschaft mit Kind(ern)",54.75,37.96,78.5
+2020,10,"10","Kreis 10",12,"WG","Wohngemeinschaft ohne Kinder",60.45,41.45,87.85
+2020,10,"10","Kreis 10",10,"PK","Paar mit Kind(ern)",53.42,39.71,76.67
+2020,10,"10","Kreis 10",7,"1EH","Ein-Elternhaushalt",37.77,22.06,56.45
+2020,10,"10","Kreis 10",4,"2P","Zweipersonenhaushalt",75.4,50.93,100.6
+2020,10,"10","Kreis 10",5,"EH","Ehepaar ohne Kinder",62.8,43.03,95
+2020,10,"10","Kreis 10",8,"EHK","Ehepaar mit Kind(ern)",50.85,34.48,75.95
+2020,10,"10","Kreis 10",1,"1P","Einpersonenhaushalt",54.9,32.9,79.55
+2020,11,"11","Kreis 11",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2020,11,"11","Kreis 11",14,"GH","Generationenhaushalt",,,
+2020,11,"11","Kreis 11",11,"PH","Patchwork-Haushalt",42.35,29.24,58.44
+2020,11,"11","Kreis 11",6,"EP","Eingetragenes Paar ohne Kinder",76.77,55.37,106.3
+2020,11,"11","Kreis 11",13,"WGK","Wohngemeinschaft mit Kind(ern)",44.57,30.87,64.83
+2020,11,"11","Kreis 11",12,"WG","Wohngemeinschaft ohne Kinder",61.55,39.05,85.75
+2020,11,"11","Kreis 11",10,"PK","Paar mit Kind(ern)",48.89,34.32,71.93
+2020,11,"11","Kreis 11",7,"1EH","Ein-Elternhaushalt",30.89,15.92,49.33
+2020,11,"11","Kreis 11",4,"2P","Zweipersonenhaushalt",69,47.53,94.27
+2020,11,"11","Kreis 11",5,"EH","Ehepaar ohne Kinder",54.33,37.1,78.93
+2020,11,"11","Kreis 11",8,"EHK","Ehepaar mit Kind(ern)",41.8,26.06,61.89
+2020,11,"11","Kreis 11",1,"1P","Einpersonenhaushalt",48.6,26.2,71.2
+2020,12,"12","Kreis 12",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2020,12,"12","Kreis 12",14,"GH","Generationenhaushalt",,,
+2020,12,"12","Kreis 12",6,"EP","Eingetragenes Paar ohne Kinder",,,
+2020,12,"12","Kreis 12",11,"PH","Patchwork-Haushalt",39.92,26.94,50.75
+2020,12,"12","Kreis 12",12,"WG","Wohngemeinschaft ohne Kinder",47.78,34.3,68.5
+2020,12,"12","Kreis 12",13,"WGK","Wohngemeinschaft mit Kind(ern)",41.85,31.36,58.52
+2020,12,"12","Kreis 12",10,"PK","Paar mit Kind(ern)",36.8,26.44,52.48
+2020,12,"12","Kreis 12",7,"1EH","Ein-Elternhaushalt",27,12.67,41.73
+2020,12,"12","Kreis 12",4,"2P","Zweipersonenhaushalt",56.93,38.07,77
+2020,12,"12","Kreis 12",5,"EH","Ehepaar ohne Kinder",45.47,30.93,62.53
+2020,12,"12","Kreis 12",8,"EHK","Ehepaar mit Kind(ern)",33.07,20.48,48.67
+2020,12,"12","Kreis 12",1,"1P","Einpersonenhaushalt",40,21.9,58.8
+2021,1,"1","Kreis 1",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2021,1,"1","Kreis 1",11,"PH","Patchwork-Haushalt",,,
+2021,1,"1","Kreis 1",6,"EP","Eingetragenes Paar ohne Kinder",,,
+2021,1,"1","Kreis 1",13,"WGK","Wohngemeinschaft mit Kind(ern)",,,
+2021,1,"1","Kreis 1",10,"PK","Paar mit Kind(ern)",47.94,22.8,74.88
+2021,1,"1","Kreis 1",12,"WG","Wohngemeinschaft ohne Kinder",85.2,57.6,126.15
+2021,1,"1","Kreis 1",7,"1EH","Ein-Elternhaushalt",42.38,24.94,70.67
+2021,1,"1","Kreis 1",8,"EHK","Ehepaar mit Kind(ern)",62.8,37.42,89.61
+2021,1,"1","Kreis 1",5,"EH","Ehepaar ohne Kinder",79.13,52.27,128.23
+2021,1,"1","Kreis 1",4,"2P","Zweipersonenhaushalt",81.53,50,117.47
+2021,1,"1","Kreis 1",1,"1P","Einpersonenhaushalt",60,29.4,99.2
+2021,2,"2","Kreis 2",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2021,2,"2","Kreis 2",14,"GH","Generationenhaushalt",,,
+2021,2,"2","Kreis 2",6,"EP","Eingetragenes Paar ohne Kinder",76.13,60.07,122.33
+2021,2,"2","Kreis 2",11,"PH","Patchwork-Haushalt",48.3,31.84,75.19
+2021,2,"2","Kreis 2",12,"WG","Wohngemeinschaft ohne Kinder",68.8,41.15,115.45
+2021,2,"2","Kreis 2",13,"WGK","Wohngemeinschaft mit Kind(ern)",57.08,35.78,93.84
+2021,2,"2","Kreis 2",10,"PK","Paar mit Kind(ern)",51.67,34,76.67
+2021,2,"2","Kreis 2",7,"1EH","Ein-Elternhaushalt",36.58,20.67,59.53
+2021,2,"2","Kreis 2",4,"2P","Zweipersonenhaushalt",78.33,53.2,112.27
+2021,2,"2","Kreis 2",5,"EH","Ehepaar ohne Kinder",69.07,44.13,103.87
+2021,2,"2","Kreis 2",8,"EHK","Ehepaar mit Kind(ern)",52.4,32.62,83.67
+2021,2,"2","Kreis 2",1,"1P","Einpersonenhaushalt",56.6,33.3,87.4
+2021,3,"3","Kreis 3",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2021,3,"3","Kreis 3",14,"GH","Generationenhaushalt",,,
+2021,3,"3","Kreis 3",11,"PH","Patchwork-Haushalt",56.49,39.22,76.22
+2021,3,"3","Kreis 3",6,"EP","Eingetragenes Paar ohne Kinder",68.13,48.93,99.27
+2021,3,"3","Kreis 3",13,"WGK","Wohngemeinschaft mit Kind(ern)",52.3,34.43,85.13
+2021,3,"3","Kreis 3",12,"WG","Wohngemeinschaft ohne Kinder",63.85,40.8,92.15
+2021,3,"3","Kreis 3",10,"PK","Paar mit Kind(ern)",49.86,34.06,75.9
+2021,3,"3","Kreis 3",7,"1EH","Ein-Elternhaushalt",31.31,17.25,48.62
+2021,3,"3","Kreis 3",5,"EH","Ehepaar ohne Kinder",54.73,37.2,84.87
+2021,3,"3","Kreis 3",4,"2P","Zweipersonenhaushalt",70.97,47.13,101
+2021,3,"3","Kreis 3",8,"EHK","Ehepaar mit Kind(ern)",41.19,24.26,63.6
+2021,3,"3","Kreis 3",1,"1P","Einpersonenhaushalt",53.3,30.5,77.7
+2021,4,"4","Kreis 4",14,"GH","Generationenhaushalt",,,
+2021,4,"4","Kreis 4",11,"PH","Patchwork-Haushalt",49.39,24.22,67.11
+2021,4,"4","Kreis 4",6,"EP","Eingetragenes Paar ohne Kinder",66.2,42.4,101.67
+2021,4,"4","Kreis 4",13,"WGK","Wohngemeinschaft mit Kind(ern)",47.36,33.17,71.6
+2021,4,"4","Kreis 4",10,"PK","Paar mit Kind(ern)",49.67,33,78.44
+2021,4,"4","Kreis 4",12,"WG","Wohngemeinschaft ohne Kinder",61,38.9,90.1
+2021,4,"4","Kreis 4",7,"1EH","Ein-Elternhaushalt",27.81,15.38,47.42
+2021,4,"4","Kreis 4",5,"EH","Ehepaar ohne Kinder",50,30.67,82.07
+2021,4,"4","Kreis 4",8,"EHK","Ehepaar mit Kind(ern)",37.14,20.34,55.72
+2021,4,"4","Kreis 4",4,"2P","Zweipersonenhaushalt",69.6,43.83,98.63
+2021,4,"4","Kreis 4",1,"1P","Einpersonenhaushalt",50,25.4,77
+2021,5,"5","Kreis 5",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2021,5,"5","Kreis 5",14,"GH","Generationenhaushalt",,,
+2021,5,"5","Kreis 5",11,"PH","Patchwork-Haushalt",48.64,37.61,95.39
+2021,5,"5","Kreis 5",13,"WGK","Wohngemeinschaft mit Kind(ern)",52.53,39.98,91.28
+2021,5,"5","Kreis 5",6,"EP","Eingetragenes Paar ohne Kinder",101.73,68.87,135.93
+2021,5,"5","Kreis 5",12,"WG","Wohngemeinschaft ohne Kinder",71.15,47.36,108.55
+2021,5,"5","Kreis 5",10,"PK","Paar mit Kind(ern)",61.04,41,89.44
+2021,5,"5","Kreis 5",7,"1EH","Ein-Elternhaushalt",36.22,20.08,57.69
+2021,5,"5","Kreis 5",5,"EH","Ehepaar ohne Kinder",71.33,42.67,116.27
+2021,5,"5","Kreis 5",8,"EHK","Ehepaar mit Kind(ern)",52.33,31.25,84
+2021,5,"5","Kreis 5",4,"2P","Zweipersonenhaushalt",79.87,53.53,115.53
+2021,5,"5","Kreis 5",1,"1P","Einpersonenhaushalt",60,33.6,91.5
+2021,6,"6","Kreis 6",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2021,6,"6","Kreis 6",14,"GH","Generationenhaushalt",,,
+2021,6,"6","Kreis 6",11,"PH","Patchwork-Haushalt",58.45,30.81,92.56
+2021,6,"6","Kreis 6",6,"EP","Eingetragenes Paar ohne Kinder",93.83,53,133.83
+2021,6,"6","Kreis 6",13,"WGK","Wohngemeinschaft mit Kind(ern)",67.84,45.09,95.6
+2021,6,"6","Kreis 6",12,"WG","Wohngemeinschaft ohne Kinder",68.95,43.46,96.85
+2021,6,"6","Kreis 6",10,"PK","Paar mit Kind(ern)",59.22,39.33,90.83
+2021,6,"6","Kreis 6",7,"1EH","Ein-Elternhaushalt",37.94,24.03,57.96
+2021,6,"6","Kreis 6",5,"EH","Ehepaar ohne Kinder",73.5,44.87,116.47
+2021,6,"6","Kreis 6",4,"2P","Zweipersonenhaushalt",80.57,53.73,110.87
+2021,6,"6","Kreis 6",8,"EHK","Ehepaar mit Kind(ern)",58.06,35.96,89.17
+2021,6,"6","Kreis 6",1,"1P","Einpersonenhaushalt",56,32.3,84.65
+2021,7,"7","Kreis 7",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2021,7,"7","Kreis 7",14,"GH","Generationenhaushalt",,,
+2021,7,"7","Kreis 7",11,"PH","Patchwork-Haushalt",70.14,43.52,128.78
+2021,7,"7","Kreis 7",6,"EP","Eingetragenes Paar ohne Kinder",99,63.8,131.53
+2021,7,"7","Kreis 7",13,"WGK","Wohngemeinschaft mit Kind(ern)",80.81,54.47,124.15
+2021,7,"7","Kreis 7",12,"WG","Wohngemeinschaft ohne Kinder",73.56,47.45,118.36
+2021,7,"7","Kreis 7",10,"PK","Paar mit Kind(ern)",71.02,47.94,106.57
+2021,7,"7","Kreis 7",7,"1EH","Ein-Elternhaushalt",52,30.15,82.8
+2021,7,"7","Kreis 7",4,"2P","Zweipersonenhaushalt",82.87,56.07,118.8
+2021,7,"7","Kreis 7",5,"EH","Ehepaar ohne Kinder",87.07,54.47,139.93
+2021,7,"7","Kreis 7",8,"EHK","Ehepaar mit Kind(ern)",72.82,46.49,117.71
+2021,7,"7","Kreis 7",1,"1P","Einpersonenhaushalt",62.5,36.6,98.2
+2021,8,"8","Kreis 8",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2021,8,"8","Kreis 8",14,"GH","Generationenhaushalt",,,
+2021,8,"8","Kreis 8",11,"PH","Patchwork-Haushalt",,,
+2021,8,"8","Kreis 8",6,"EP","Eingetragenes Paar ohne Kinder",94.8,67.33,132.8
+2021,8,"8","Kreis 8",13,"WGK","Wohngemeinschaft mit Kind(ern)",74.23,48.53,126.06
+2021,8,"8","Kreis 8",12,"WG","Wohngemeinschaft ohne Kinder",80.95,53.1,116.1
+2021,8,"8","Kreis 8",10,"PK","Paar mit Kind(ern)",70.91,46.44,100.51
+2021,8,"8","Kreis 8",7,"1EH","Ein-Elternhaushalt",47.06,27.69,77
+2021,8,"8","Kreis 8",5,"EH","Ehepaar ohne Kinder",87.27,53.53,138.2
+2021,8,"8","Kreis 8",4,"2P","Zweipersonenhaushalt",87.73,56.33,125.93
+2021,8,"8","Kreis 8",8,"EHK","Ehepaar mit Kind(ern)",66.5,40.9,110
+2021,8,"8","Kreis 8",1,"1P","Einpersonenhaushalt",65.6,37.4,105
+2021,9,"9","Kreis 9",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2021,9,"9","Kreis 9",14,"GH","Generationenhaushalt",,,
+2021,9,"9","Kreis 9",11,"PH","Patchwork-Haushalt",40.84,26.72,57.52
+2021,9,"9","Kreis 9",6,"EP","Eingetragenes Paar ohne Kinder",73.33,53.73,100
+2021,9,"9","Kreis 9",13,"WGK","Wohngemeinschaft mit Kind(ern)",52.14,31.69,75.6
+2021,9,"9","Kreis 9",12,"WG","Wohngemeinschaft ohne Kinder",60.63,39.68,87
+2021,9,"9","Kreis 9",10,"PK","Paar mit Kind(ern)",48.72,36.72,69.56
+2021,9,"9","Kreis 9",7,"1EH","Ein-Elternhaushalt",32.27,18.27,48.31
+2021,9,"9","Kreis 9",4,"2P","Zweipersonenhaushalt",70.07,47.47,95.93
+2021,9,"9","Kreis 9",5,"EH","Ehepaar ohne Kinder",52.53,36.87,73.27
+2021,9,"9","Kreis 9",8,"EHK","Ehepaar mit Kind(ern)",42.38,27.33,61.5
+2021,9,"9","Kreis 9",1,"1P","Einpersonenhaushalt",50,29.6,71.9
+2021,10,"10","Kreis 10",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2021,10,"10","Kreis 10",14,"GH","Generationenhaushalt",,,
+2021,10,"10","Kreis 10",11,"PH","Patchwork-Haushalt",50.61,35.39,76.61
+2021,10,"10","Kreis 10",6,"EP","Eingetragenes Paar ohne Kinder",75.8,52.6,99.13
+2021,10,"10","Kreis 10",13,"WGK","Wohngemeinschaft mit Kind(ern)",57,38.48,78.23
+2021,10,"10","Kreis 10",12,"WG","Wohngemeinschaft ohne Kinder",68.03,44.75,93.1
+2021,10,"10","Kreis 10",10,"PK","Paar mit Kind(ern)",54.38,38.52,78.63
+2021,10,"10","Kreis 10",7,"1EH","Ein-Elternhaushalt",38.46,21.27,57.53
+2021,10,"10","Kreis 10",5,"EH","Ehepaar ohne Kinder",63.37,43.1,96.73
+2021,10,"10","Kreis 10",4,"2P","Zweipersonenhaushalt",75,52.4,101.33
+2021,10,"10","Kreis 10",8,"EHK","Ehepaar mit Kind(ern)",50.95,34,75.64
+2021,10,"10","Kreis 10",1,"1P","Einpersonenhaushalt",54.7,32.8,79.5
+2021,11,"11","Kreis 11",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2021,11,"11","Kreis 11",14,"GH","Generationenhaushalt",,,
+2021,11,"11","Kreis 11",11,"PH","Patchwork-Haushalt",45.2,34.29,58.05
+2021,11,"11","Kreis 11",6,"EP","Eingetragenes Paar ohne Kinder",81.33,59.53,102.9
+2021,11,"11","Kreis 11",12,"WG","Wohngemeinschaft ohne Kinder",61.48,39,84.68
+2021,11,"11","Kreis 11",13,"WGK","Wohngemeinschaft mit Kind(ern)",46.75,30.15,64.7
+2021,11,"11","Kreis 11",10,"PK","Paar mit Kind(ern)",52.11,36.52,73
+2021,11,"11","Kreis 11",7,"1EH","Ein-Elternhaushalt",31.93,15.96,49.67
+2021,11,"11","Kreis 11",4,"2P","Zweipersonenhaushalt",68.87,46.47,94.47
+2021,11,"11","Kreis 11",5,"EH","Ehepaar ohne Kinder",53.87,37.1,78.63
+2021,11,"11","Kreis 11",8,"EHK","Ehepaar mit Kind(ern)",42.49,26.48,62.54
+2021,11,"11","Kreis 11",1,"1P","Einpersonenhaushalt",48.1,26.7,71.1
+2021,12,"12","Kreis 12",9,"EPK","Eingetragenes Paar mit Kind(ern)",,,
+2021,12,"12","Kreis 12",14,"GH","Generationenhaushalt",,,
+2021,12,"12","Kreis 12",6,"EP","Eingetragenes Paar ohne Kinder",60.87,43.4,91.13
+2021,12,"12","Kreis 12",11,"PH","Patchwork-Haushalt",40.06,27.92,51.11
+2021,12,"12","Kreis 12",12,"WG","Wohngemeinschaft ohne Kinder",46.25,32.7,63
+2021,12,"12","Kreis 12",13,"WGK","Wohngemeinschaft mit Kind(ern)",43.16,28.69,60.55
+2021,12,"12","Kreis 12",10,"PK","Paar mit Kind(ern)",38.14,27.67,53.04
+2021,12,"12","Kreis 12",7,"1EH","Ein-Elternhaushalt",26.6,14,42.8
+2021,12,"12","Kreis 12",4,"2P","Zweipersonenhaushalt",57.2,36,79.5
+2021,12,"12","Kreis 12",5,"EH","Ehepaar ohne Kinder",45.2,30.8,62.2
+2021,12,"12","Kreis 12",8,"EHK","Ehepaar mit Kind(ern)",33.39,20.9,50.2
+2021,12,"12","Kreis 12",1,"1P","Einpersonenhaushalt",40,21.9,58.3
