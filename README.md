@@ -1,4 +1,4 @@
-# Dog Breed Prediction in Zurich
+# Dog Breed Prediction in Zurich (CU Boulder MS-DS DTSA-5510)
 
 ## Problem Description
 This project aims to identify factors influencing dog breed choices among owners in Zurich, Switzerland, considering both dog characteristics (size, appearance, etc.) and owners' characteristics. The task is approached as a classification problem, using logistic regression and random forest models for comparison.
